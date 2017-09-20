@@ -1,0 +1,2543 @@
+ Invalid date/time 	[Invalid date/time] Eurasian Cup Open
+ 09:00  Session #1
+ 09:00 	[09:00] РТС, СПТС, WDC AL Russia
+ 09:00 	End of Session
+ 19:00  Session #2
+ 19:00 	End of Session
+ 09:00  Session #3
+ 09:00 	[09:00] RDU, WDC AL Russia Juveniles-1 Latin
+ 09:00 	[09:00] RDU, WDC AL Russia Juveniles-2 Standard
+ 09:00 	[09:00] RDU, WDC AL Russia Juniors-1 Latin
+ 09:00 	[09:00] RDU, WDC AL Russia Juniors-2 Standard
+ 09:00 	[09:00] EATO Eurasian Cup Juveniles-1 Latin
+ 09:00 	[09:00] EATO Eurasian Cup Juveniles-2 Standard
+ 09:00 	[09:00] EATO Eurasian Cup Juniors-1 Latin
+ 09:00 	[09:00] EATO Eurasian Cup Juniors-2 Standard
+ 09:00 	End of Session
+ 12:30  Session #4
+ 12:30 	[12:30] Pro-Am International Latin - Single Dance
+ 13:48 	[13:48] Pro-Am International Latin - Multi Dance
+ 14:50 	[14:50] Pro-Am International Latin - Scholarship (age B) - 1/2
+ 15:05 	[15:05] Pro-Am International Latin - Scholarship (age A) - 1/2
+ 15:30 	[15:30] Pro-Am American Rhythm - Single Dance
+ 15:37 	[15:37] Pro-Am Arg. Tango Free Style - Single Dance
+ 15:53 	[15:53] Pro-Am American Rhythm - Multi Dance
+ 16:00 	[16:00] Pro-Am Arg. Tango Free Style - Multi Dance
+ 16:11 	[16:11] Pro-Am American Rhythm Championship (all ages)
+ 16:30 	[16:30] Pro-Am International Standard - Eurasian Challenge (Single Dance)
+ 16:57 	[16:57] Pro-Am Eurasian Cup Show Dance - Latin, American Rhythm, Arg.Tango, Fusion
+ 17:27 	[17:27] Pro-Am Eurasian 10 Dance Cup Open - International Standard
+ 17:37 	[17:37] Awards - Eurasian Cup - International Standard Single Dance, Show Dance
+ 17:50 	End of Session
+ 19:00  Session #5
+ 19:00 	[19:00] Opening Ceremony
+ 19:25 	[19:25] WDC AL Youth-1 Latin - 1/4
+ 19:40 	[19:40] Pro-Am Arg. Tango Free Style - Scholarship (age C) - Final
+ 19:50 	[19:50] Pro-Am International Latin - Scholarship (age C) - Final
+ 20:05 	[20:05] WDC AL Youth-1 Latin - 1/2
+ 20:20 	[20:20] Pro-Am International Latin - Scholarship (age B) - Final
+ 20:35 	[20:35] Showcase
+ 20:40 	[20:40] WDC AL Youth-1 Latin - Final
+ 20:50 	[20:50] Showcase
+ 20:55 	[20:55] Professional Open to the World Show Dance Competition (Standard) - Final
+ 21:10 	[21:10] Pro-Am International Latin - Scholarship (age A) - Final
+ 21:25 	[21:25] Awards - Youth-1 Latin, Professional
+ 21:35 	[21:35] WDC AL Youth-2 Standard - 1/2
+ 21:50 	[21:50] Showcase
+ 21:55 	[21:55] WDC AL Adults Latin - 1/2
+ 22:10 	[22:10] SHOW Анна Ковалинская - Андрей Бущик
+ 22:15 	[22:15] International Standard - Eurasian Cup Open (all ages) Am-Am
+ 22:24 	[22:24] WDC AL Youth-2 Standard - Final
+ 22:40 	[22:40] International Standard - Eurasian Cup Open (all ages) Pro-Am
+ 22:49 	[22:49] WDC AL Adults Latin - Final
+ 23:00 	[23:00] Awards - Youth-2, Adults
+ 23:15 	End of Session
+ 09:00  Session #6
+ 09:00 	[09:00] WDC AL Juveniles-1 Standard
+ 09:00 	[09:00] WDC AL Juveniles-2 Latin
+ 09:00 	[09:00] WDC AL Juniors-1 Standard
+ 09:00 	[09:00] WDC AL Juniors-2 Latin
+ 09:00 	[09:00] EATO Eurasian Cup Juveniles-1 St
+ 09:00 	[09:00] EATO Eurasian Cup Juveniles-2 La
+ 09:00 	[09:00] EATO Eurasian Cup Juniors-1 St
+ 09:00 	[09:00] EATO Eurasian Cup Juniors-2 La
+ 09:00 	End of Session
+ 12:30  Session #7
+ 12:30 	[12:30] Pro-Am International Standard - Single Dance
+ 13:58 	[13:58] Pro-Am International Standard - Multi Dance
+ 14:50 	[14:50] Pro-Am International Standard - Scholarship (age B) - 1/4
+ 15:15 	[15:15] Pro-Am American Smooth - Single Dance
+ 15:22 	[15:22] Pro-Am Arg. Tango Salon - Single Dance
+ 15:53 	[15:53] Pro-Am International Standard - Scholarship (age B) - 1/2
+ 16:08 	[16:08] Pro-Am American Smooth - Multi Dance
+ 16:22 	[16:22] Pro-Am Arg. Tango Salon - Multi Dance
+ 16:46 	[16:46] Pro-Am American Smooth - Scholarship (all ages)
+ 17:05 	[17:05] Pro-Am International Latin - Eurasian Challenge (Single Dance)
+ 17:14 	[17:14] Pro-Am Eurasian Cup Show Dance - Standard, Am.Smooth
+ 17:24 	[17:24] Pro-Am Eurasian 10 Dance Cup Open - International Latin
+ 17:34 	[17:34] Awards - Eurasian Cup - International Latin Single Dance, Show Dance, 10 Dance
+ 17:34 	End of Session
+ 19:00  Session #8
+ 19:00 	[19:00] Opening Ceremony
+ 19:25 	[19:25] WDC AL - Youth-1 Standard - 1/4
+ 19:40 	[19:40] Pro-Am Arg. Tango Salon - Scholarship (age C) - Final
+ 19:50 	[19:50] Pro-Am International Standard - Scholarship (age C) - Final
+ 20:05 	[20:05] Showcase
+ 20:10 	[20:10] WDC AL - Youth-1 Standard - 1/2
+ 20:25 	[20:25] Pro-Am International Standard - Scholarship (age B) - Final
+ 20:40 	[20:40] Showcase
+ 20:45 	[20:45] WDC AL - Youth-1 Standard - Final
+ 20:55 	[20:55] Professional Open to the World Show Dance Competition (Latin) - Final
+ 21:20 	[21:20] Pro-Am International Standard - Scholarship (age A) - Final
+ 21:35 	[21:35] Awards - Youth-1 Standard, Professional
+ 21:50 	[21:50] Pro-Am TOP AWARDS
+ 21:55 	[21:55] WDC AL - Youth-2 Latin - 1/2
+ 22:10 	[22:10] SHOW Pak Ling (HK) - Justinas Duknauskas, Kirill Vosyuk
+ 22:15 	[22:15] WDC AL - Adults Standard - 1/2
+ 22:30 	[22:30] SHOW Anna Li Chong (HK) - Justinas Duknauskas, Igor Boev
+ 22:35 	[22:35] International Latin - Eurasian Cup Open (all ages) Pro-Am - Final
+ 22:35 	[22:35] International Latin - Eurasian Cup Open (all ages) Am-Am - Final
+ 22:50 	[22:50] WDC AL - Youth-2 Latin - Final
+ 23:00 	[23:00] WDC AL - Adults Standard - Final
+ 23:10 	[23:10] Awards - Youth-2, Adults
+ 23:25 	End of Session
+
+ Nikolai Smodlev		Canada
+ Luca Tonello		Italy
+ Justinas Duknauskas		Lithuania
+ Vitautas Duknauskas		Lithuania
+ Karin Karamat Ali		Netherlands
+ Andrew Sinkinson		UK
+ Irina Galperina		UK
+ Polina Teplenko		Ukraine
+ Slava Kryklyvyy		Ukraine
+ Andrew Philips		USA
+ Karina Smirnoff		USA
+ Sid Posius		USA
+ Aleksey Belyaev 		Russia
+ Alexey Kolodkin		Russia
+ Denis Elizarov		Russia
+ Natalia Smirnova		Russia
+ Oleg Kudinov		Russia
+ Sergey Ryupin		Russia
+ Aleksey Barbolin		Russia
+ Yulia Zueva		Russia
+ Sofia Seminskaya		Russia
+
+ Arena dance club	St.-Petersburg, Russia
+ Baccare Baccare	Milano, Italy
+ Dance Capital	St.-Petersburg, Russia
+ Dance For You	Dubai, UAE
+ DanceDNA	Toronto, Canada
+ DanceLand	Kiyv, Ukraine
+ Deluxe Dance	St.-Petersburg, Russia
+ Diablo danza	St.-Petersburg, Russia
+ Duet	Minsk, Belarus
+ Ekaterinburg	Ekaterinburg, Russia
+ GallaDance Dostyk	Almaty, Kazakhstan
+ GallaDance Riverside	Chelyabinsk, Russia
+ GallaDance Жуковка	Moscow, Russia
+ GallaDance Крестовский	St.-Petersburg, Russia
+ GallaDance Мичуринский	Moscow, Russia
+ GallaDance Олимпийский	Moscow, Russia
+ GallaDance ЦМТ	Moscow, Russia
+ Inspiration to Dance	London, Great Britain
+ Jenavi Club	St.-Petersburg, Russia
+ Kyiv	Kyiv, Ukraine
+ La Boca 	St.-Petersburg, Russia
+ La Danza Dance Clubs	
+ Lumina Ballroom	Wilmington, USA
+ Moscow	Moscow, Russia
+ New York	New York, USA
+ Novosibirsk	Novosibirsk, Russia
+ Omsk	Omsk, Russia
+ Perm	Perm, Russia
+ Riga	Riga, Latvia
+ St.-Petersburg	St.-Petersburg, Russia
+ Surgut	Surgut, Russia
+ Tango Dance Studio	Moscow, Russia
+ Terrasport Kopernik	Moscow, Russia
+ Vilnius	Vilnius, Lithuania
+ Буржуа	St.-Petersburg, Russia
+ Московский Танцевальный Альянс	Moscow, Russia
+ Русский Стиль	St.-Petersburg, Russia
+ Союз 	Moscow, Russia
+ Студия танца Е. Бобкова 	St.-Petersburg, Russia
+ Студия танца Евгения Бобкова 	
+ Танцевальный Клуб Impressdance	
+ Танцландия	Moscow, Russia
+ Триумф	Volgograd, Russia
+ Триумф-Волгоград	
+ Фан Флан	St.-Petersburg, Russia
+ Школа танцев Е. Папунаишвили	Moscow, Russia
+ Школа танцев Романа Ковгана	
+
+ 101 Gianni Cugge	Baccare Baccare
+ 102 Nikita Moisejenko	Vilnius
+ 182 Assylbek Ozhiken	La Danza Dance Clubs
+ 103 Marts Punins	Riga
+ 104 Abdi Shamshiyev	GallaDance Dostyk
+ 105 Pavel Silantev	Dance For You
+ 106 Nikita Sokolov	Inspiration to Dance
+ 107 Sergii Tymchenko	Dance For You
+ 108 Андрей Ануров	Impressdance
+ 109 Илья Асонов	Moscow
+ 110 Иван Багаев	GallaDance Крестовский
+ 111 Кирилл Белоруков	Moscow
+ 112 Егор Бикбаев	Novosibirsk
+ 113 Евгений Бобков	Студия танца Е. Бобкова 
+ 114 Андрей Богданов	St.-Petersburg
+ 115 Филипп Борисенок	Tango Dance Studio
+ 116 Илья Боровский	Moscow
+ 117 Никита Бровко	Moscow
+ 118 Виктор Бычков	Moscow
+ 119 Даниил Варламов	St.-Petersburg
+ 120 Владимир Гаргалык	GallaDance Крестовский
+ 121 Илья Гоготов	Триумф
+ 122 Виталий Диденко	Moscow
+ 123 Денис Жарков	GallaDance Олимпийский
+ 181 Эдуард Жигурт	Jenavi Club
+ 124 Александр Жиратков	Школа танцев Е. Папунаишвили
+ 125 Николай Жук	Фан Флан
+ 126 Алексей Зайцев	Moscow
+ 127 Владимир Земсков	Moscow
+ 128 Федор Исаев	Perm
+ 129 Алексей Кабанов	GallaDance ЦМТ
+ 130 Константин Кафтан	Arena dance club
+ 131 Валерий Кацыр	St.-Petersburg
+ 132 Петр Кашинский	Moscow
+ 133 Кирилл Кеппер	Школа танцев Е. Папунаишвили
+ 134 Роман Ковган	Школа Танцев Р. Ковгана
+ 135 Сергей Колесников	Moscow
+ 137 Юрий Комаров	Moscow
+ 138 Вячеслав Коровин	Московский Танцевальный Альянс
+ 139 Сергей Коровников	Deluxe Dance
+ 141 Иван Крылов	Московский Танцевальный Альянс
+ 142 Илья Куценко	GallaDance Жуковка
+ 143 Георгий Лапинский	Moscow
+ 144 Илья Ларионов	Ekaterinburg
+ 145 Роман Лукьяненко	Артданс
+ 146 Илья Малышев	Moscow
+ 147 Роман Мансуров	St.-Petersburg
+ 148 Дмитрий Марченко	Moscow
+ 149 Денис Медведев	Moscow
+ 150 Фаридун Мирзоев	Surgut
+ 151 Родион Мишенев	Русский Стиль
+ 152 Андрей Мотыль	Moscow
+ 153 Артем Некрасов	Diablo danza
+ 154 Олег Новицкий	GallaDance Крестовский
+ 155 Георгий Осадчий	Moscow
+ 156 Василий Паратуй	Dance Capital
+ 157 Антон Пахомчик	Dance Capital
+ 158 Александр Подгорелкин	St.-Petersburg
+ 159 Михаил Попов	Arena dance club
+ 160 Александр Порозов	Moscow
+ 161 Виктор Преснецов	St.-Petersburg
+ 162 Андрей Призенцов	Moscow
+ 163 Дмитрий Рыжов	La Boca 
+ 164 Серафим Салимзянов	Jenavi Club
+ 165 Дмитрий Смирнов	GallaDance Крестовский
+ 166 Евгений Стец	GallaDance Крестовский
+ 167 Илья Сухоносов	Школа танцев Е. Папунаишвили
+ 168 Дмитрий Табаков	St.-Petersburg
+ 169 Евгений Уразгильдеев	St.-Petersburg
+ 170 Ян Хачатуров	Moscow
+ 171 Александр Ходенко	Terrasport Kopernik
+ 172 Евгений Червонов	La Boca 
+ 173 Александр Чесноков	Moscow
+ 174 Игорь Чухланцев	Фан Флан
+ 175 Антон Шевченко	Московский Танцевальный Альянс
+ 176 Алексей Шершнев	GallaDance Riverside
+ 177 Петр Шигин	Moscow
+ 178 Иван Шмыгов	Московский Танцевальный Альянс
+ 179 Вадим Шурин	Moscow
+ 180 Константин Яценко	Omsk
+
+ 401 John Gussenhoven	Lumina Ballroom
+ 402 Anatoliy Kostin	DanceLand
+ 410 Peter Kwok	DanceDNA
+ 403 Dmitry Lityagin	Duet
+ 404 Jury Logachev	Kyiv
+ 409 Alfred Poon	DanceDNA
+ 405 Ram Viswanathan	New York
+ 406 Андрей Иванов	Союз 
+ 407 Алексей Семенов (Am)	St.-Petersburg
+ 408 Фарид Ушаков	Novosibirsk
+
+ Sarika Hudson	New York
+ Darya Konokhova	Duet
+ Iryna Mialyantsava	Lumina Ballroom
+ Yana Minaieva	Kyiv
+ Tatyana Rozhkova	DanceLand
+ Мария Беломестных	Novosibirsk
+ 136 Елена Колыхалова	GallaDance Мичуринский
+ Вера Нам	St.-Petersburg
+
+ Kellie Andrews	Dance For You
+ Solvita Balode	Riga
+ Diana Bissembayeva	GallaDance Dostyk
+ Ann Boothello	Dance For You
+ Irina Emmons	Inspiration to Dance
+ Edita Kondratiene	Vilnius
+ Ute Kuras	Dance For You
+ Daniela Parmigiani	Baccare Baccare
+ Lucilla Poon	DanceDNA
+ Zhanar Saltykova	La Danza Dance Clubs
+ Sue Tang	DanceDNA
+ Marina Voyevodina	La Danza Dance Clubs
+ Ирина Агалецкая	Школа танцев Е. Папунаишвили
+ Виктория Алексеева	Moscow
+ Маргарита Алешина	Arena dance club
+ Юлия Арсентьева	Diablo danza
+ Екатерина Баранова	GallaDance Крестовский
+ Наталья Белоусова	GallaDance Крестовский
+ Виктория Берещьян	La Boca 
+ Ирина Блинникова	Московский Танцевальный Альянс
+ Ольга Богачева	Moscow
+ Елена Бойцова	Diablo danza
+ Лилиана Большунова	GallaDance Жуковка
+ Ольга Бугаева	Dance Capital
+ Юлия Букина	Diablo danza
+ Лидия Виноградова	GallaDance Крестовский
+ Мария Владимирцева	Студия танца Е. Бобкова 
+ Елена Волчкова	Moscow
+ Евгения Вострякова	Impressdance
+ Ольга Гаврикова	Московский Танцевальный Альянс
+ Екатерина Горохова	Moscow
+ Ирина Дмитриева	St.-Petersburg
+ Юлия Дмитриева	St.-Petersburg
+ Анна Ермолаева	Novosibirsk
+ Марина Зеленова	World Class
+ Светлана Зубарева	Moscow
+ Алена Иванова	Moscow
+ Анна Иванова	Союз 
+ Елизавета Иванова	Terrasport Kopernik
+ Марина Кальченко	Omsk
+ Лина Конькова	Ekaterinburg
+ Юлия Королева	Impressdance
+ Наталья Кривохижина	Dance Capital
+ Мария Крупица	Deluxe Dance
+ Ирина Кувалдина	Moscow
+ Наталия Кузнецова	Surgut
+ Яна Лаврентьева	GallaDance Крестовский
+ Татьяна Лебедева	Moscow
+ Наталья Левашова	Moscow
+ Виктория Левина	St.-Petersburg
+ Елена Лужанская	Bravo
+ Анна Лукьянова	GallaDance Riverside
+ Марина Максимова	Moscow
+ Марина Медведева	Perm
+ Юлия Меркурьева	St.-Petersburg
+ Елена Милютина	GallaDance Крестовский
+ Ольга Михайлова	Триумф
+ Елена Михеева	Moscow
+ Арина Молоткова	Школа танцев Е. Папунаишвили
+ Анастасия Моралес-Эскомилья	Moscow
+ Светлана Мухаметшина	Moscow
+ Елена Нефедова	Moscow
+ Юлия Новожилова	Moscow
+ Анна Овсянникова	St.-Petersburg
+ Марина Павлова	GallaDance Крестовский
+ Светлана Петрова	Moscow
+ Анна Печенова	Tango Dance Studio
+ Наталья Плеханова	Jenavi Club
+ Елена Позднеева	St.-Petersburg
+ Ольга Полонская	Moscow
+ Екатерина Полякова	GallaDance Крестовский
+ Елена Попова (Мск)	Moscow
+ Алена Ремизова	GallaDance ЦМТ
+ Полина Рудомётова	Moscow
+ Ирина Русакова	Deluxe Dance
+ Наталья Рыбакова	GallaDance ЦМТ
+ Ирина Светлицкая	Moscow
+ Наталия Свириденко	Школа Танцев Р. Ковгана
+ Ольга Сергеева	Moscow
+ Светлана Сергеева	Moscow
+ Екатерина Серединская	Школа танцев Е. Папунаишвили
+ Марина Синявская	St.-Petersburg
+ Екатерина Смирнова	Jenavi Club
+ Татьяна Смирнова	Московский Танцевальный Альянс
+ Анна Сорокина	GallaDance Мичуринский
+ Ольга Тедикова	Русский Стиль
+ Полина Терпугова	Дом танца Bossa Nova
+ Татьяна Тихомирова	GallaDance Олимпийский
+ Марина Трацевская	St.-Petersburg
+ Нина Третьякова	Jenavi Club
+ Елена Трушина	Буржуа
+ Екатерина Уфимцева	La Boca 
+ Елена Фокина	St.-Petersburg
+ Вероника Царева	Moscow
+ Галина Шашкова	Moscow
+ Полина Шедько	Студия танца Е. Бобкова 
+ Александра Шор	GallaDance Мичуринский
+ Юлия Щедрова	Фан Флан
+ Марина Щербакова	Moscow
+ Татьяна Ярушавичус	Jenavi Club
+ 
+ [Invalid date/time] Eurasian Cup Open
+ 
+ Heat 0 [Invalid date/time]   Eurasion 10 Dance Cup Open (W/T/VW/F/Q/C/S/R/P/J)
+ _X_	L-	137	Елена Фокина	Николай Жук	Фан Флан, St.-Petersburg, Russia
+
+ 
+
+ [09:00] РТС, СПТС, WDC AL Russia
+
+ 
+
+ [09:00] RDU, WDC AL Russia Juveniles-1 Latin
+ [09:00] RDU, WDC AL Russia Juveniles-2 Standard
+ [09:00] RDU, WDC AL Russia Juniors-1 Latin
+ [09:00] RDU, WDC AL Russia Juniors-2 Standard
+ [09:00] EATO Eurasian Cup Juveniles-1 Latin
+ [09:00] EATO Eurasian Cup Juveniles-2 Standard
+ [09:00] EATO Eurasian Cup Juniors-1 Latin
+ [09:00] EATO Eurasian Cup Juniors-2 Standard
+
+ 
+ [12:30] Pro-Am International Latin - Single Dance
+ 
+ Heat 1 [12:30]  Cha Cha
+ Bronze Full
+ ___	L-A2	120	Елена Милютина	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	157	Наталья Кривохижина	Антон Пахомчик	Dance Capital, St.-Petersburg, Russia
+ 
+ ___	L-B1	156	Ольга Бугаева	Василий Паратуй	Dance Capital, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B2	174	Юлия Щедрова	Игорь Чухланцев	Фан Флан, St.-Petersburg, Russia
+ ___	L-B2	180	Елена Лужанская	Константин Яценко	Omsk, Omsk, Russia
+ Gold Beginner
+ ___	L-B1	153	Елена Бойцова	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Bronze Full
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 2 [12:31]  Samba
+ Bronze Full
+ ___	L-A2	120	Елена Милютина	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	157	Наталья Кривохижина	Антон Пахомчик	Dance Capital, St.-Petersburg, Russia
+ 
+ ___	L-B1	156	Ольга Бугаева	Василий Паратуй	Dance Capital, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B2	174	Юлия Щедрова	Игорь Чухланцев	Фан Флан, St.-Petersburg, Russia
+ ___	L-B2	180	Елена Лужанская	Константин Яценко	Omsk, Omsk, Russia
+ Gold Beginner
+ ___	L-B1	153	Елена Бойцова	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Bronze Full
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 3 [12:33]  Rumba
+ Bronze Full
+ ___	L-A2	120	Елена Милютина	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	157	Наталья Кривохижина	Антон Пахомчик	Dance Capital, St.-Petersburg, Russia
+ 
+ ___	L-B1	156	Ольга Бугаева	Василий Паратуй	Dance Capital, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B2	174	Юлия Щедрова	Игорь Чухланцев	Фан Флан, St.-Petersburg, Russia
+ ___	L-B2	180	Елена Лужанская	Константин Яценко	Omsk, Omsk, Russia
+ Gold Beginner
+ ___	L-B1	153	Елена Бойцова	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Bronze Full
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 4 [12:34]  Bronze Open Cha Cha
+ ___	L-A2	114	Елена Трушина	Андрей Богданов	Буржуа, St.-Petersburg, Russia
+ ___	L-A2	137	Юлия Новожилова	Юрий Комаров	
+ ___	L-A2	145	Нина Третьякова	Роман Лукьяненко	Jenavi Club, St.-Petersburg, Russia
+ 
+ ___	L-B1	120	Екатерина Полякова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	167	Екатерина Серединская	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B1	169	Анна Овсянникова	Евгений Уразгильдеев	Arena dance club, St.-Petersburg, Russia
+ ___	L-B1	182	Zhanar Saltykova	Assylbek Ozhiken	La Danza Dance Clubs
+
+ Heat 5 [12:36]  Bronze Open Samba
+ ___	L-A2	114	Елена Трушина	Андрей Богданов	Буржуа, St.-Petersburg, Russia
+ ___	L-A2	137	Юлия Новожилова	Юрий Комаров	
+ ___	L-A2	145	Нина Третьякова	Роман Лукьяненко	Jenavi Club, St.-Petersburg, Russia
+ 
+ ___	L-B1	120	Екатерина Полякова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	167	Екатерина Серединская	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B1	169	Анна Овсянникова	Евгений Уразгильдеев	Arena dance club, St.-Petersburg, Russia
+ ___	L-B1	182	Zhanar Saltykova	Assylbek Ozhiken	La Danza Dance Clubs
+
+ Heat 6 [12:38]  Bronze Open Rumba
+ ___	L-A2	114	Елена Трушина	Андрей Богданов	Буржуа, St.-Petersburg, Russia
+ ___	L-A2	137	Юлия Новожилова	Юрий Комаров	
+ ___	L-A2	145	Нина Третьякова	Роман Лукьяненко	Jenavi Club, St.-Petersburg, Russia
+ 
+ ___	L-B1	120	Екатерина Полякова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	167	Екатерина Серединская	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B1	169	Анна Овсянникова	Евгений Уразгильдеев	Arena dance club, St.-Petersburg, Russia
+ ___	L-B1	182	Zhanar Saltykova	Assylbek Ozhiken	La Danza Dance Clubs
+
+ Heat 7 [12:39]  Paso Doble
+ Bronze Full
+ ___	L-A2	120	Елена Милютина	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B2	174	Юлия Щедрова	Игорь Чухланцев	Фан Флан, St.-Petersburg, Russia
+ ___	L-B2	180	Елена Лужанская	Константин Яценко	Omsk, Omsk, Russia
+ Gold Beginner
+ ___	L-B1	153	Елена Бойцова	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+
+ Heat 8 [12:41]  Jive
+ Bronze Full
+ ___	L-A2	120	Елена Милютина	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	157	Наталья Кривохижина	Антон Пахомчик	Dance Capital, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B2	180	Елена Лужанская	Константин Яценко	Omsk, Omsk, Russia
+ Bronze Full
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 9 [12:42]  Bronze Open Jive
+ ___	L-A2	137	Юлия Новожилова	Юрий Комаров	
+ ___	L-A2	145	Нина Третьякова	Роман Лукьяненко	Jenavi Club, St.-Petersburg, Russia
+ 
+ ___	L-B1	120	Екатерина Полякова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	167	Екатерина Серединская	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B1	169	Анна Овсянникова	Евгений Уразгильдеев	Arena dance club, St.-Petersburg, Russia
+ ___	L-B1	182	Zhanar Saltykova	Assylbek Ozhiken	La Danza Dance Clubs
+
+ Heat 10 [12:44]  Cha Cha
+ Silver Open
+ ___	L-A2	113	Мария Владимирцева	Евгений Бобков	Студия танца Евгения Бобкова 
+ ___	L-A2	114	Елена Трушина	Андрей Богданов	Буржуа, St.-Petersburg, Russia
+ ___	L-A2	137	Юлия Новожилова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-A2	182	Marina Voyevodina	Assylbek Ozhiken	La Danza Dance Clubs
+ Bronze Beginner
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 11 [12:46]  Samba
+ Silver Open
+ ___	L-A2	113	Мария Владимирцева	Евгений Бобков	Студия танца Евгения Бобкова 
+ ___	L-A2	114	Елена Трушина	Андрей Богданов	Буржуа, St.-Petersburg, Russia
+ ___	L-A2	137	Юлия Новожилова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-A2	182	Marina Voyevodina	Assylbek Ozhiken	La Danza Dance Clubs
+ Bronze Beginner
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 12 [12:47]  Rumba
+ Silver Open
+ ___	L-A2	113	Мария Владимирцева	Евгений Бобков	Студия танца Евгения Бобкова 
+ ___	L-A2	114	Елена Трушина	Андрей Богданов	Буржуа, St.-Petersburg, Russia
+ ___	L-A2	137	Юлия Новожилова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-A2	182	Marina Voyevodina	Assylbek Ozhiken	La Danza Dance Clubs
+ Bronze Beginner
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 13 [12:49]  Cha Cha
+ Bronze Open
+ ___	L-B2	145	Татьяна Ярушавичус	Роман Лукьяненко	Jenavi Club, St.-Petersburg, Russia
+ ___	L-B2	164	Екатерина Смирнова	Серафим Салимзянов	Jenavi Club, St.-Petersburg, Russia
+ ___	L-B2	180	Елена Лужанская	Константин Яценко	Omsk, Omsk, Russia
+ 
+ ___	L-C1	153	Юлия Арсентьева	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Gold Open
+ ___	L-B2	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-B2	155	Елена Нефедова	Георгий Осадчий	Moscow, Moscow, Russia
+
+ Heat 14 [12:50]  Samba
+ Bronze Open
+ ___	L-B2	145	Татьяна Ярушавичус	Роман Лукьяненко	Jenavi Club, St.-Petersburg, Russia
+ ___	L-B2	180	Елена Лужанская	Константин Яценко	Omsk, Omsk, Russia
+ 
+ ___	L-C1	153	Юлия Арсентьева	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Gold Open
+ ___	L-B2	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-B2	155	Елена Нефедова	Георгий Осадчий	Moscow, Moscow, Russia
+
+ Heat 15 [12:52]  Rumba
+ Bronze Open
+ ___	L-B2	145	Татьяна Ярушавичус	Роман Лукьяненко	Jenavi Club, St.-Petersburg, Russia
+ ___	L-B2	164	Екатерина Смирнова	Серафим Салимзянов	Jenavi Club, St.-Petersburg, Russia
+ ___	L-B2	180	Елена Лужанская	Константин Яценко	Omsk, Omsk, Russia
+ 
+ ___	L-C1	153	Юлия Арсентьева	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Gold Open
+ ___	L-B2	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-B2	155	Елена Нефедова	Георгий Осадчий	Moscow, Moscow, Russia
+
+ Heat 16 [12:54]  Silver Open Paso Doble
+ ___	L-A2	113	Мария Владимирцева	Евгений Бобков	Студия танца Евгения Бобкова 
+ ___	L-A2	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-A2	153	Юлия Букина	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ ___	L-A2	182	Marina Voyevodina	Assylbek Ozhiken	La Danza Dance Clubs
+
+ Heat 17 [12:55]  Jive
+ Silver Open
+ ___	L-A2	113	Мария Владимирцева	Евгений Бобков	Студия танца Евгения Бобкова 
+ ___	L-A2	137	Юлия Новожилова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-A2	182	Marina Voyevodina	Assylbek Ozhiken	La Danza Dance Clubs
+ Bronze Beginner
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 18 [12:57]  Paso Doble
+ Bronze Open
+ ___	L-B1	120	Екатерина Полякова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	182	Zhanar Saltykova	Assylbek Ozhiken	La Danza Dance Clubs
+ 
+ ___	L-B2	180	Елена Лужанская	Константин Яценко	Omsk, Omsk, Russia
+ 
+ ___	L-C1	153	Юлия Арсентьева	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Gold Open
+ ___	L-B2	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-B2	155	Елена Нефедова	Георгий Осадчий	Moscow, Moscow, Russia
+
+ Heat 19 [12:58]  Jive
+ Bronze Open
+ ___	L-B2	145	Татьяна Ярушавичус	Роман Лукьяненко	Jenavi Club, St.-Petersburg, Russia
+ ___	L-B2	164	Екатерина Смирнова	Серафим Салимзянов	Jenavi Club, St.-Petersburg, Russia
+ ___	L-B2	180	Елена Лужанская	Константин Яценко	Omsk, Omsk, Russia
+ 
+ ___	L-C1	153	Юлия Арсентьева	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Gold Open
+ ___	L-B2	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-B2	155	Елена Нефедова	Георгий Осадчий	Moscow, Moscow, Russia
+
+ Heat 20 [13:00]  Cha Cha
+ Gold Open
+ ___	L-A1	139	Мария Крупица	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ 
+ ___	L-C1	102	Edita Kondratiene	Nikita Moisejenko	Vilnius, Vilnius, Lithuania
+ ___	L-C1	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-C1	155	Елена Нефедова	Георгий Осадчий	Moscow, Moscow, Russia
+ ___	L-C1	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+ Gold Star Open
+ ___	G-B2	404	Jury Logachev	Yana Minaieva	Kyiv, Kyiv, Ukraine
+ Bronze Intermediate
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 21 [13:02]  Samba
+ Gold Open
+ ___	L-A1	139	Мария Крупица	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ 
+ ___	L-C1	102	Edita Kondratiene	Nikita Moisejenko	Vilnius, Vilnius, Lithuania
+ ___	L-C1	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-C1	155	Елена Нефедова	Георгий Осадчий	Moscow, Moscow, Russia
+ ___	L-C1	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+ Gold Star Open
+ ___	G-B2	404	Jury Logachev	Yana Minaieva	Kyiv, Kyiv, Ukraine
+ Bronze Intermediate
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 22 [13:03]  Rumba
+ Gold Open
+ ___	L-A1	139	Мария Крупица	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ 
+ ___	L-C1	102	Edita Kondratiene	Nikita Moisejenko	Vilnius, Vilnius, Lithuania
+ ___	L-C1	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-C1	155	Елена Нефедова	Георгий Осадчий	Moscow, Moscow, Russia
+ ___	L-C1	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+ Gold Beginner
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+ Gold Star Open
+ ___	G-B2	404	Jury Logachev	Yana Minaieva	Kyiv, Kyiv, Ukraine
+ Bronze Intermediate
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 23 [13:05]  Silver Open Cha Cha
+ ___	L-B1	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	120	Екатерина Полякова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	127	Светлана Зубарева	Владимир Земсков	Moscow, Moscow, Russia
+ ___	L-B1	139	Ирина Русакова	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ ___	L-B1	146	Ольга Сергеева	Илья Малышев	Moscow, Moscow, Russia
+ ___	L-B1	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-B1	171	Елизавета Иванова	Александр Ходенко	Terrasport Kopernik, Moscow, Russia
+
+ Heat 24 [13:06]  Silver Open Samba
+ ___	L-B1	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	120	Екатерина Полякова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	127	Светлана Зубарева	Владимир Земсков	Moscow, Moscow, Russia
+ ___	L-B1	139	Ирина Русакова	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ ___	L-B1	146	Ольга Сергеева	Илья Малышев	Moscow, Moscow, Russia
+ ___	L-B1	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-B1	171	Елизавета Иванова	Александр Ходенко	Terrasport Kopernik, Moscow, Russia
+
+ Heat 25 [13:08]  Silver Open Rumba
+ ___	L-B1	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	120	Екатерина Полякова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	127	Светлана Зубарева	Владимир Земсков	Moscow, Moscow, Russia
+ ___	L-B1	139	Ирина Русакова	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ ___	L-B1	146	Ольга Сергеева	Илья Малышев	Moscow, Moscow, Russia
+ ___	L-B1	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-B1	171	Елизавета Иванова	Александр Ходенко	Terrasport Kopernik, Moscow, Russia
+
+ Heat 26 [13:10]  Paso Doble
+ Gold Open
+ ___	L-A1	139	Мария Крупица	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ 
+ ___	L-C1	102	Edita Kondratiene	Nikita Moisejenko	Vilnius, Vilnius, Lithuania
+ ___	L-C1	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-C1	155	Елена Нефедова	Георгий Осадчий	Moscow, Moscow, Russia
+ ___	L-C1	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+ Gold Star Open
+ ___	G-B2	404	Jury Logachev	Yana Minaieva	Kyiv, Kyiv, Ukraine
+
+ Heat 27 [13:11]  Jive
+ Gold Open
+ ___	L-A1	139	Мария Крупица	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ 
+ ___	L-C1	102	Edita Kondratiene	Nikita Moisejenko	Vilnius, Vilnius, Lithuania
+ ___	L-C1	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-C1	155	Елена Нефедова	Георгий Осадчий	Moscow, Moscow, Russia
+ ___	L-C1	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+ Gold Star Open
+ ___	G-B2	404	Jury Logachev	Yana Minaieva	Kyiv, Kyiv, Ukraine
+ Bronze Intermediate
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 28 [13:13]  Silver Open Paso Doble
+ ___	L-B1	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	120	Екатерина Полякова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	127	Светлана Зубарева	Владимир Земсков	Moscow, Moscow, Russia
+ ___	L-B1	139	Ирина Русакова	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ ___	L-B1	146	Ольга Сергеева	Илья Малышев	Moscow, Moscow, Russia
+ ___	L-B1	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-B1	171	Елизавета Иванова	Александр Ходенко	Terrasport Kopernik, Moscow, Russia
+
+ Heat 29 [13:14]  Silver Open Jive
+ ___	L-B1	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	120	Екатерина Полякова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	127	Светлана Зубарева	Владимир Земсков	Moscow, Moscow, Russia
+ ___	L-B1	139	Ирина Русакова	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ ___	L-B1	146	Ольга Сергеева	Илья Малышев	Moscow, Moscow, Russia
+ ___	L-B1	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-B1	171	Елизавета Иванова	Александр Ходенко	Terrasport Kopernik, Moscow, Russia
+
+ Heat 30 [13:16]  Gold Star Open Cha Cha
+ ___	L-B1	122	Марина Щербакова	Виталий Диденко	Moscow, Moscow, Russia
+ ___	L-B1	130	Маргарита Алешина	Константин Кафтан	Dance Capital, St.-Petersburg, Russia
+ ___	L-B1	134	Наталия Свириденко	Роман Ковган	Школа танцев Романа Ковгана
+ ___	L-B1	135	Елена Волчкова	Сергей Колесников	Moscow, Moscow, Russia
+ ___	L-B1	142	Лилиана Большунова	Илья Куценко	GallaDance Жуковка, Moscow, Russia
+ ___	L-B1	149	Наталья Левашова	Денис Медведев	Moscow, Moscow, Russia
+ ___	L-B1	173	Светлана Мухаметшина	Александр Чесноков	Союз , Moscow, Russia
+
+ Heat 31 [13:18]  Gold Star Open Samba
+ ___	L-B1	122	Марина Щербакова	Виталий Диденко	Moscow, Moscow, Russia
+ ___	L-B1	130	Маргарита Алешина	Константин Кафтан	Dance Capital, St.-Petersburg, Russia
+ ___	L-B1	134	Наталия Свириденко	Роман Ковган	Школа танцев Романа Ковгана
+ ___	L-B1	135	Елена Волчкова	Сергей Колесников	Moscow, Moscow, Russia
+ ___	L-B1	142	Лилиана Большунова	Илья Куценко	GallaDance Жуковка, Moscow, Russia
+ ___	L-B1	149	Наталья Левашова	Денис Медведев	Moscow, Moscow, Russia
+ ___	L-B1	173	Светлана Мухаметшина	Александр Чесноков	Союз , Moscow, Russia
+
+ Heat 32 [13:19]  Gold Star Open Rumba
+ ___	L-B1	122	Марина Щербакова	Виталий Диденко	Moscow, Moscow, Russia
+ ___	L-B1	130	Маргарита Алешина	Константин Кафтан	Dance Capital, St.-Petersburg, Russia
+ ___	L-B1	134	Наталия Свириденко	Роман Ковган	Школа танцев Романа Ковгана
+ ___	L-B1	135	Елена Волчкова	Сергей Колесников	Moscow, Moscow, Russia
+ ___	L-B1	142	Лилиана Большунова	Илья Куценко	GallaDance Жуковка, Moscow, Russia
+ ___	L-B1	149	Наталья Левашова	Денис Медведев	Moscow, Moscow, Russia
+ ___	L-B1	173	Светлана Мухаметшина	Александр Чесноков	Союз , Moscow, Russia
+
+ Heat 33 [13:21]  Cha Cha
+ Silver Full
+ ___	L-A2	153	Юлия Букина	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Gold Open
+ ___	L-A2	137	Ирина Кувалдина	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-A2	166	Яна Лаврентьева	Евгений Стец	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+ Silver Beginner
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 34 [13:22]  Samba
+ Silver Full
+ ___	L-A2	153	Юлия Букина	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Gold Open
+ ___	L-A2	137	Ирина Кувалдина	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-A2	166	Яна Лаврентьева	Евгений Стец	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+ Silver Beginner
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 35 [13:24]  Rumba
+ Silver Full
+ ___	L-A2	153	Юлия Букина	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Gold Open
+ ___	L-A2	137	Ирина Кувалдина	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-A2	166	Яна Лаврентьева	Евгений Стец	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+ Silver Beginner
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 36 [13:26]  Gold Star Open Paso Doble
+ ___	L-B1	122	Марина Щербакова	Виталий Диденко	Moscow, Moscow, Russia
+ ___	L-B1	130	Маргарита Алешина	Константин Кафтан	Dance Capital, St.-Petersburg, Russia
+ ___	L-B1	134	Наталия Свириденко	Роман Ковган	Школа танцев Романа Ковгана
+ ___	L-B1	135	Елена Волчкова	Сергей Колесников	Moscow, Moscow, Russia
+ ___	L-B1	142	Лилиана Большунова	Илья Куценко	GallaDance Жуковка, Moscow, Russia
+ ___	L-B1	149	Наталья Левашова	Денис Медведев	Moscow, Moscow, Russia
+ ___	L-B1	173	Светлана Мухаметшина	Александр Чесноков	Союз , Moscow, Russia
+
+ Heat 37 [13:27]  Gold Star Open Jive
+ ___	L-B1	122	Марина Щербакова	Виталий Диденко	Moscow, Moscow, Russia
+ ___	L-B1	130	Маргарита Алешина	Константин Кафтан	Dance Capital, St.-Petersburg, Russia
+ ___	L-B1	134	Наталия Свириденко	Роман Ковган	Школа танцев Романа Ковгана
+ ___	L-B1	135	Елена Волчкова	Сергей Колесников	Moscow, Moscow, Russia
+ ___	L-B1	142	Лилиана Большунова	Илья Куценко	GallaDance Жуковка, Moscow, Russia
+ ___	L-B1	149	Наталья Левашова	Денис Медведев	Moscow, Moscow, Russia
+ ___	L-B1	173	Светлана Мухаметшина	Александр Чесноков	Союз , Moscow, Russia
+
+ Heat 38 [13:29]  Paso Doble
+ Silver Full
+ ___	L-A2	153	Юлия Букина	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Gold Open
+ ___	L-A2	137	Ирина Кувалдина	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-A2	166	Яна Лаврентьева	Евгений Стец	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ Heat 39 [13:30]  Jive
+ Gold Open
+ ___	L-A2	137	Ирина Кувалдина	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-A2	166	Яна Лаврентьева	Евгений Стец	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+ Silver Beginner
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 40 [13:32]  Cha Cha
+ Gold Open
+ ___	L-B1	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	116	Светлана Петрова	Илья Боровский	Moscow, Moscow, Russia
+ ___	L-B1	127	Светлана Зубарева	Владимир Земсков	Moscow, Moscow, Russia
+ ___	L-B1	139	Ирина Русакова	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ ___	L-B1	178	Татьяна Смирнова	Иван Шмыгов	Московский Танцевальный Альянс, Moscow, Russia
+ Gold Star Open
+ ___	L-C1	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-C1	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+
+ Heat 41 [13:34]  Samba
+ Gold Open
+ ___	L-B1	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	116	Светлана Петрова	Илья Боровский	Moscow, Moscow, Russia
+ ___	L-B1	127	Светлана Зубарева	Владимир Земсков	Moscow, Moscow, Russia
+ ___	L-B1	139	Ирина Русакова	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ ___	L-B1	178	Татьяна Смирнова	Иван Шмыгов	Московский Танцевальный Альянс, Moscow, Russia
+ Gold Star Open
+ ___	L-C1	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-C1	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+
+ Heat 42 [13:35]  Rumba
+ Gold Open
+ ___	L-B1	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	116	Светлана Петрова	Илья Боровский	Moscow, Moscow, Russia
+ ___	L-B1	127	Светлана Зубарева	Владимир Земсков	Moscow, Moscow, Russia
+ ___	L-B1	139	Ирина Русакова	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ ___	L-B1	178	Татьяна Смирнова	Иван Шмыгов	Московский Танцевальный Альянс, Moscow, Russia
+ Gold Star Open
+ ___	L-C1	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-C1	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+
+ Heat 43 [13:37]  Gold Star Open Cha Cha
+ ___	L-A2	105	Ann Boothello	Pavel Silantev	Dance For You, Dubai, UAE
+ ___	L-A2	111	Марина Максимова	Кирилл Белоруков	Moscow, Moscow, Russia
+ ___	L-A2	117	Алена Иванова	Никита Бровко	Moscow, Moscow, Russia
+ ___	L-A2	118	Елена Михеева	Виктор Бычков	Moscow, Moscow, Russia
+ ___	L-A2	143	Ольга Полонская	Георгий Лапинский	Moscow, Moscow, Russia
+ ___	L-A2	160	Анастасия Моралес-Эскомилья	Александр Порозов	Moscow, Moscow, Russia
+ ___	L-A2	166	Яна Лаврентьева	Евгений Стец	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	170	Виктория Алексеева	Ян Хачатуров	Moscow, Moscow, Russia
+
+ Heat 44 [13:38]  Gold Star Open Samba
+ ___	L-A2	105	Ann Boothello	Pavel Silantev	Dance For You, Dubai, UAE
+ ___	L-A2	111	Марина Максимова	Кирилл Белоруков	Moscow, Moscow, Russia
+ ___	L-A2	117	Алена Иванова	Никита Бровко	Moscow, Moscow, Russia
+ ___	L-A2	118	Елена Михеева	Виктор Бычков	Moscow, Moscow, Russia
+ ___	L-A2	143	Ольга Полонская	Георгий Лапинский	Moscow, Moscow, Russia
+ ___	L-A2	160	Анастасия Моралес-Эскомилья	Александр Порозов	Moscow, Moscow, Russia
+ ___	L-A2	166	Яна Лаврентьева	Евгений Стец	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	170	Виктория Алексеева	Ян Хачатуров	Moscow, Moscow, Russia
+
+ Heat 45 [13:40]  Gold Star Open Rumba
+ ___	L-A2	105	Ann Boothello	Pavel Silantev	Dance For You, Dubai, UAE
+ ___	L-A2	111	Марина Максимова	Кирилл Белоруков	Moscow, Moscow, Russia
+ ___	L-A2	117	Алена Иванова	Никита Бровко	Moscow, Moscow, Russia
+ ___	L-A2	118	Елена Михеева	Виктор Бычков	Moscow, Moscow, Russia
+ ___	L-A2	143	Ольга Полонская	Георгий Лапинский	Moscow, Moscow, Russia
+ ___	L-A2	160	Анастасия Моралес-Эскомилья	Александр Порозов	Moscow, Moscow, Russia
+ ___	L-A2	166	Яна Лаврентьева	Евгений Стец	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	170	Виктория Алексеева	Ян Хачатуров	Moscow, Moscow, Russia
+
+ Heat 46 [13:42]  Paso Doble
+ Gold Open
+ ___	L-B1	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	116	Светлана Петрова	Илья Боровский	Moscow, Moscow, Russia
+ ___	L-B1	127	Светлана Зубарева	Владимир Земсков	Moscow, Moscow, Russia
+ ___	L-B1	139	Ирина Русакова	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ ___	L-B1	178	Татьяна Смирнова	Иван Шмыгов	Московский Танцевальный Альянс, Moscow, Russia
+ Gold Star Open
+ ___	L-C1	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-C1	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+
+ Heat 47 [13:43]  Jive
+ Gold Open
+ ___	L-B1	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	116	Светлана Петрова	Илья Боровский	Moscow, Moscow, Russia
+ ___	L-B1	127	Светлана Зубарева	Владимир Земсков	Moscow, Moscow, Russia
+ ___	L-B1	139	Ирина Русакова	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ ___	L-B1	178	Татьяна Смирнова	Иван Шмыгов	Московский Танцевальный Альянс, Moscow, Russia
+ Gold Star Open
+ ___	L-C1	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-C1	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+
+ Heat 48 [13:45]  Gold Star Open Paso Doble
+ ___	L-A2	105	Ann Boothello	Pavel Silantev	Dance For You, Dubai, UAE
+ ___	L-A2	111	Марина Максимова	Кирилл Белоруков	Moscow, Moscow, Russia
+ ___	L-A2	117	Алена Иванова	Никита Бровко	Moscow, Moscow, Russia
+ ___	L-A2	118	Елена Михеева	Виктор Бычков	Moscow, Moscow, Russia
+ ___	L-A2	143	Ольга Полонская	Георгий Лапинский	Moscow, Moscow, Russia
+ ___	L-A2	160	Анастасия Моралес-Эскомилья	Александр Порозов	Moscow, Moscow, Russia
+ ___	L-A2	166	Яна Лаврентьева	Евгений Стец	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	170	Виктория Алексеева	Ян Хачатуров	Moscow, Moscow, Russia
+
+ Heat 49 [13:46]  Gold Star Open Jive
+ ___	L-A2	105	Ann Boothello	Pavel Silantev	Dance For You, Dubai, UAE
+ ___	L-A2	111	Марина Максимова	Кирилл Белоруков	Moscow, Moscow, Russia
+ ___	L-A2	117	Алена Иванова	Никита Бровко	Moscow, Moscow, Russia
+ ___	L-A2	118	Елена Михеева	Виктор Бычков	Moscow, Moscow, Russia
+ ___	L-A2	143	Ольга Полонская	Георгий Лапинский	Moscow, Moscow, Russia
+ ___	L-A2	160	Анастасия Моралес-Эскомилья	Александр Порозов	Moscow, Moscow, Russia
+ ___	L-A2	166	Яна Лаврентьева	Евгений Стец	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	170	Виктория Алексеева	Ян Хачатуров	Moscow, Moscow, Russia
+
+ 
+ [13:48] Pro-Am International Latin - Multi Dance
+ 
+ Heat 50 [13:48]  5 Dance Challenge Latin (C/S/R/P/J)
+ Bronze Open
+ ___	L-B	120	Екатерина Полякова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B	180	Елена Лужанская	Константин Яценко	Omsk, Omsk, Russia
+ ___	L-B	182	Zhanar Saltykova	Assylbek Ozhiken	La Danza Dance Clubs
+ Silver Full
+ ___	L-B	153	Елена Бойцова	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Gold Open
+ ___	L-B	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B	116	Светлана Петрова	Илья Боровский	Moscow, Moscow, Russia
+ ___	L-B	155	Елена Нефедова	Георгий Осадчий	Moscow, Moscow, Russia
+ ___	L-B	178	Татьяна Смирнова	Иван Шмыгов	Московский Танцевальный Альянс, Moscow, Russia
+
+ Heat 51 [13:56]  3 Dance Challenge Latin (C/S/R)
+ Bronze Open
+ ___	L-A	114	Елена Трушина	Андрей Богданов	Буржуа, St.-Petersburg, Russia
+ ___	L-A	145	Нина Третьякова	Роман Лукьяненко	Jenavi Club, St.-Petersburg, Russia
+ Silver Full
+ ___	L-A	153	Юлия Букина	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B	171	Елизавета Иванова	Александр Ходенко	Terrasport Kopernik, Moscow, Russia
+ ___	L-B	174	Юлия Щедрова	Игорь Чухланцев	Фан Флан, St.-Petersburg, Russia
+ Bronze Beginner
+ ___	L-K	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 52 [14:01]  5 Dance Challenge Latin (C/S/R/P/J)
+ Bronze Full
+ ___	L-A	120	Елена Милютина	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ Bronze Open
+ ___	L-C	153	Юлия Арсентьева	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ Silver Open
+ ___	L-A	113	Мария Владимирцева	Евгений Бобков	Студия танца Евгения Бобкова 
+ ___	L-A	182	Marina Voyevodina	Assylbek Ozhiken	La Danza Dance Clubs
+ Gold Open
+ ___	L-A	137	Ирина Кувалдина	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-A	166	Яна Лаврентьева	Евгений Стец	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	L-C	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+
+ Heat 53 [14:09]  3 Dance Challenge Latin (C/S/R)
+ Bronze Full
+ ___	L-B	156	Ольга Бугаева	Василий Паратуй	Dance Capital, St.-Petersburg, Russia
+ Bronze Open
+ ___	L-B	145	Татьяна Ярушавичус	Роман Лукьяненко	Jenavi Club, St.-Petersburg, Russia
+ ___	L-B	167	Екатерина Серединская	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B	169	Анна Овсянникова	Евгений Уразгильдеев	Arena dance club, St.-Petersburg, Russia
+ Silver Open
+ ___	L-A	114	Елена Трушина	Андрей Богданов	Буржуа, St.-Petersburg, Russia
+ Bronze Full
+ ___	L-K	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 54 [14:14]  Silver Open 5 Dance Challenge Latin (C/S/R/P/J)
+ ___	L-B	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B	120	Екатерина Полякова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B	139	Ирина Русакова	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ ___	L-B	146	Ольга Сергеева	Илья Малышев	Moscow, Moscow, Russia
+ ___	L-B	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-B	153	Елена Бойцова	Артем Некрасов	Diablo danza, St.-Petersburg, Russia
+ ___	L-B	171	Елизавета Иванова	Александр Ходенко	Terrasport Kopernik, Moscow, Russia
+ ___	L-B	180	Елена Лужанская	Константин Яценко	Omsk, Omsk, Russia
+
+ Heat 55 [14:22]  4 Dance Challenge Latin (C/S/R/J)
+ Bronze Full
+ ___	L-A	157	Наталья Кривохижина	Антон Пахомчик	Dance Capital, St.-Petersburg, Russia
+ Bronze Open
+ ___	L-A	137	Юлия Новожилова	Юрий Комаров	Moscow, Moscow, Russia
+ 
+ ___	L-B	167	Екатерина Серединская	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B	169	Анна Овсянникова	Евгений Уразгильдеев	Arena dance club, St.-Petersburg, Russia
+
+ Heat 56 [14:28]  Gold Star Open 5 Dance Challenge Latin (C/S/R/P/J)
+ ___	L-B	116	Светлана Петрова	Илья Боровский	
+ ___	L-B	130	Маргарита Алешина	Константин Кафтан	Dance Capital, St.-Petersburg, Russia
+ ___	L-B	142	Лилиана Большунова	Илья Куценко	GallaDance Жуковка, Moscow, Russia
+ ___	L-B	173	Светлана Мухаметшина	Александр Чесноков	Союз , Moscow, Russia
+ ___	G-B	404	Jury Logachev	Yana Minaieva	Kyiv, Kyiv, Ukraine
+
+ Heat 57 [14:36]  4 Dance Challenge Latin (C/S/R/J)
+ Silver Open
+ ___	L-A	137	Юлия Новожилова	Юрий Комаров	Moscow, Moscow, Russia
+ 
+ ___	L-B	120	Екатерина Полякова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B	171	Елизавета Иванова	Александр Ходенко	Terrasport Kopernik, Moscow, Russia
+ Bronze Full
+ ___	L-K	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 58 [14:42]  Gold Star Open 5 Dance Challenge Latin (C/S/R/P/J)
+ ___	L-A	105	Ann Boothello	Pavel Silantev	Dance For You, Dubai, UAE
+ ___	L-A	111	Марина Максимова	Кирилл Белоруков	Moscow, Moscow, Russia
+ ___	L-A	117	Алена Иванова	Никита Бровко	Moscow, Moscow, Russia
+ ___	L-A	143	Ольга Полонская	Георгий Лапинский	Moscow, Moscow, Russia
+ ___	L-A	166	Яна Лаврентьева	Евгений Стец	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	L-C	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-C	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+
+ 
+ [14:50] Pro-Am International Latin - Scholarship (age B) - 1/2
+ 
+ Heat 59 [14:50]  Semi-final Round  Scholarship Latin (C/S/R/P/J)
+ Heat 2
+ ___	L-B	122	Марина Щербакова	Виталий Диденко	Moscow, Moscow, Russia
+ ___	L-B	127	Светлана Зубарева	Владимир Земсков	Moscow, Moscow, Russia
+ ___	L-B	130	Маргарита Алешина	Константин Кафтан	Dance Capital, St.-Petersburg, Russia
+ ___	L-B	134	Наталия Свириденко	Роман Ковган	Школа танцев Романа Ковгана
+ ___	L-B	135	Елена Волчкова	Сергей Колесников	Moscow, Moscow, Russia
+ ___	L-B	139	Ирина Русакова	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ ___	L-B	142	Лилиана Большунова	Илья Куценко	GallaDance Жуковка, Moscow, Russia
+ Heat 2
+ ___	L-B	148	Светлана Сергеева	Дмитрий Марченко	Moscow, Moscow, Russia
+ ___	L-B	149	Наталья Левашова	Денис Медведев	Moscow, Moscow, Russia
+ ___	L-B	173	Светлана Мухаметшина	Александр Чесноков	Союз , Moscow, Russia
+ ___	L-B	178	Татьяна Смирнова	Иван Шмыгов	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-B	180	Елена Лужанская	Константин Яценко	Omsk, Omsk, Russia
+ ___	G-B	404	Jury Logachev	Yana Minaieva	Kyiv, Kyiv, Ukraine
+
+ 
+ [15:05] Pro-Am International Latin - Scholarship (age A) - 1/2
+ 
+ Heat 60 [15:05]  Semi-final Round  Scholarship Latin (C/S/R/P/J)
+ Heat 1
+ ___	L-A	105	Ann Boothello	Pavel Silantev	Dance For You, Dubai, UAE
+ ___	L-A	111	Марина Максимова	Кирилл Белоруков	Moscow, Moscow, Russia
+ ___	L-A	113	Мария Владимирцева	Евгений Бобков	Студия танца Евгения Бобкова 
+ ___	L-A	117	Алена Иванова	Никита Бровко	Moscow, Moscow, Russia
+ ___	L-A	118	Елена Михеева	Виктор Бычков	Moscow, Moscow, Russia
+ Heat 2
+ ___	L-A	139	Мария Крупица	Сергей Коровников	Deluxe Dance, St.-Petersburg, Russia
+ ___	L-A	143	Ольга Полонская	Георгий Лапинский	Moscow, Moscow, Russia
+ ___	L-A	160	Анастасия Моралес-Эскомилья	Александр Порозов	Moscow, Moscow, Russia
+ ___	L-A	166	Яна Лаврентьева	Евгений Стец	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A	170	Виктория Алексеева	Ян Хачатуров	Moscow, Moscow, Russia
+
+ 
+ [15:20] Warm-up - Arg.Tango Free Style, American Rhythm (10 min.)
+ 
+ [15:30] Pro-Am American Rhythm - Single Dance
+ 
+ Heat 61 [15:30]  Silver Open Cha-Cha
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ Heat 62 [15:32]  Silver Open Rumba
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ Heat 63 [15:34]  Silver Open East Coast Swing
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ Heat 64 [15:36]  Silver Open Bolero
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ 
+ [15:37] Pro-Am Arg. Tango Free Style - Single Dance
+ 
+ Heat 65 [15:37]  Arg. Tango - Arg. Tango Free Style
+ Bronze Full
+ ___	L-B1	176	Анна Лукьянова	Алексей Шершнев	GallaDance Riverside, Chelyabinsk, Russia
+ Silver Full
+ ___	L-B1	123	Татьяна Тихомирова	Денис Жарков	GallaDance Олимпийский, Moscow, Russia
+ Gold Star Open
+ ___	L-C2	101	Daniela Parmigiani	Gianni Cugge	Baccare Baccare, Milano, Italy
+
+ Heat 66 [15:39]  Vals - Arg. Tango Free Style
+ Bronze Full
+ ___	L-B1	176	Анна Лукьянова	Алексей Шершнев	GallaDance Riverside, Chelyabinsk, Russia
+ Silver Full
+ ___	L-B1	123	Татьяна Тихомирова	Денис Жарков	GallaDance Олимпийский, Moscow, Russia
+ Gold Star Open
+ ___	L-C2	101	Daniela Parmigiani	Gianni Cugge	Baccare Baccare, Milano, Italy
+
+ Heat 67 [15:41]  Milonga - Arg. Tango Free Style
+ Bronze Full
+ ___	L-B1	176	Анна Лукьянова	Алексей Шершнев	GallaDance Riverside, Chelyabinsk, Russia
+ Silver Full
+ ___	L-B1	123	Татьяна Тихомирова	Денис Жарков	GallaDance Олимпийский, Moscow, Russia
+ Gold Star Open
+ ___	L-C2	101	Daniela Parmigiani	Gianni Cugge	Baccare Baccare, Milano, Italy
+
+ 
+ Heat 68 [15:43]  Silver Open Mambo
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ Heat 69 [15:44]  Gold Beginner Rumba
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ Heat 70 [15:46]  Gold Beginner Bolero
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ 
+ Heat 71 [15:48]  Bronze Open Arg. Tango - Arg. Tango Free Style
+ ___	L-B1	123	Татьяна Тихомирова	Денис Жарков	GallaDance Олимпийский, Moscow, Russia
+ ___	L-B1	167	Екатерина Серединская	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B1	176	Анна Лукьянова	Алексей Шершнев	GallaDance Riverside, Chelyabinsk, Russia
+
+ Heat 72 [15:50]  Bronze Open Vals - Arg. Tango Free Style
+ ___	L-B1	123	Татьяна Тихомирова	Денис Жарков	GallaDance Олимпийский, Moscow, Russia
+ ___	L-B1	167	Екатерина Серединская	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B1	176	Анна Лукьянова	Алексей Шершнев	GallaDance Riverside, Chelyabinsk, Russia
+
+ Heat 73 [15:51]  Bronze Open Milonga - Arg. Tango Free Style
+ ___	L-B1	123	Татьяна Тихомирова	Денис Жарков	GallaDance Олимпийский, Moscow, Russia
+ ___	L-B1	167	Екатерина Серединская	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B1	176	Анна Лукьянова	Алексей Шершнев	GallaDance Riverside, Chelyabinsk, Russia
+
+ 
+ [15:53] Pro-Am American Rhythm - Multi Dance
+ 
+ Heat 74 [15:53]  Silver Open American Rhythm 4 Dance Challenge (C/R/SW/B)
+ ___	G-C	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ 
+ [16:00] Pro-Am Arg. Tango Free Style - Multi Dance
+ 
+ Heat 75 [16:00]  Arg. Tango Free Style 3 Dance Challenge (Tango/Vals/Milonga)
+ Bronze Full
+ ___	L-B	176	Анна Лукьянова	Алексей Шершнев	GallaDance Riverside, Chelyabinsk, Russia
+ Silver Full
+ ___	L-B	123	Татьяна Тихомирова	Денис Жарков	GallaDance Олимпийский, Moscow, Russia
+ Gold Star Open
+ ___	L-C	101	Daniela Parmigiani	Gianni Cugge	Baccare Baccare, Milano, Italy
+
+ Heat 76 [16:06]  Bronze Open Arg. Tango Free Style 3 Dance Challenge (Tango/Vals/Milonga)
+ ___	L-B	123	Татьяна Тихомирова	Денис Жарков	GallaDance Олимпийский, Moscow, Russia
+ ___	L-B	167	Екатерина Серединская	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B	176	Анна Лукьянова	Алексей Шершнев	GallaDance Riverside, Chelyabinsk, Russia
+
+ 
+ [16:11] Pro-Am American Rhythm Championship (all ages)
+ 
+ Heat 77 [16:11]   Championship Am Rhythm (C/R/SW/B/M)
+ ___	G-A	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ 
+ Awards - Pro-Am American Rhythm Championship (all ages)
+ 
+ [16:21] Warm-up - International Standard (10 min.)
+ 
+ [16:30] Pro-Am International Standard - Eurasian Challenge (Single Dance)
+ 
+ Heat 78 [16:30]   Waltz
+ ___	L-B2	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-B2	152	Вероника Царева	Андрей Мотыль	Moscow, Moscow, Russia
+ 
+ ___	L-C1	150	Наталия Кузнецова	Фаридун Мирзоев	Surgut, Surgut, Russia
+ ___	G-C1	402	Anatoliy Kostin	Tatyana Rozhkova	DanceLand, Kiyv, Ukraine
+
+ Heat 79 [16:32]   Tango
+ ___	L-B2	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-B2	152	Вероника Царева	Андрей Мотыль	Moscow, Moscow, Russia
+ 
+ ___	L-C1	150	Наталия Кузнецова	Фаридун Мирзоев	Surgut, Surgut, Russia
+ ___	G-C1	402	Anatoliy Kostin	Tatyana Rozhkova	DanceLand, Kiyv, Ukraine
+
+ Heat 80 [16:34]   V.Waltz
+ ___	L-B2	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-B2	152	Вероника Царева	Андрей Мотыль	Moscow, Moscow, Russia
+ 
+ ___	L-C1	150	Наталия Кузнецова	Фаридун Мирзоев	Surgut, Surgut, Russia
+ ___	G-C1	402	Anatoliy Kostin	Tatyana Rozhkova	DanceLand, Kiyv, Ukraine
+
+ 
+ Heat 81 [16:35]   Waltz
+ ___	L-A2	107	Ute Kuras	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-A2	119	Ирина Дмитриева	Даниил Варламов	St.-Petersburg, St.-Petersburg, Russia
+ 
+ ___	AC-C1	409	Alfred Poon	Lucilla Poon	DanceDNA, Toronto, Canada
+ ___	AC-C1	410	Peter Kwok	Sue Tang	DanceDNA, Toronto, Canada
+
+ Heat 82 [16:37]   Tango
+ ___	L-A2	107	Ute Kuras	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-A2	119	Ирина Дмитриева	Даниил Варламов	St.-Petersburg, St.-Petersburg, Russia
+ 
+ ___	AC-C1	409	Alfred Poon	Lucilla Poon	DanceDNA, Toronto, Canada
+ ___	AC-C1	410	Peter Kwok	Sue Tang	DanceDNA, Toronto, Canada
+
+ Heat 83 [16:39]   V.Waltz
+ ___	L-A2	107	Ute Kuras	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-A2	119	Ирина Дмитриева	Даниил Варламов	St.-Petersburg, St.-Petersburg, Russia
+ 
+ ___	AC-C1	409	Alfred Poon	Lucilla Poon	DanceDNA, Toronto, Canada
+ ___	AC-C1	410	Peter Kwok	Sue Tang	DanceDNA, Toronto, Canada
+
+ 
+ !Break 2 min.
+ 
+ Heat 84 [16:41]   Waltz
+ ___	L-B1	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-B1	119	Ирина Дмитриева	Даниил Варламов	St.-Petersburg, St.-Petersburg, Russia
+ _X_	L-B1	128	Марина Медведева	Федор Исаев	Perm, Perm, Russia
+ ___	L-B1	144	Лина Конькова	Илья Ларионов	Ekaterinburg, Ekaterinburg, Russia
+
+ Heat 85 [16:43]   Tango
+ ___	L-B1	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-B1	119	Ирина Дмитриева	Даниил Варламов	St.-Petersburg, St.-Petersburg, Russia
+ _X_	L-B1	128	Марина Медведева	Федор Исаев	Perm, Perm, Russia
+ ___	L-B1	144	Лина Конькова	Илья Ларионов	Ekaterinburg, Ekaterinburg, Russia
+
+ Heat 86 [16:44]   V.Waltz
+ ___	L-B1	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-B1	119	Ирина Дмитриева	Даниил Варламов	St.-Petersburg, St.-Petersburg, Russia
+ _X_	L-B1	128	Марина Медведева	Федор Исаев	Perm, Perm, Russia
+ ___	L-B1	144	Лина Конькова	Илья Ларионов	Ekaterinburg, Ekaterinburg, Russia
+
+ 
+ Heat 87 [16:46]   Slowfox
+ ___	L-B2	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-B2	152	Вероника Царева	Андрей Мотыль	Moscow, Moscow, Russia
+ 
+ ___	L-C1	150	Наталия Кузнецова	Фаридун Мирзоев	Surgut, Surgut, Russia
+ ___	G-C1	402	Anatoliy Kostin	Tatyana Rozhkova	DanceLand, Kiyv, Ukraine
+
+ Heat 88 [16:48]   Quickstep
+ ___	L-B2	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-B2	152	Вероника Царева	Андрей Мотыль	Moscow, Moscow, Russia
+ 
+ ___	L-C1	150	Наталия Кузнецова	Фаридун Мирзоев	Surgut, Surgut, Russia
+ ___	G-C1	402	Anatoliy Kostin	Tatyana Rozhkova	DanceLand, Kiyv, Ukraine
+
+ 
+ Heat 89 [16:50]   Slowfox
+ ___	L-A2	107	Ute Kuras	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-A2	119	Ирина Дмитриева	Даниил Варламов	St.-Petersburg, St.-Petersburg, Russia
+ 
+ ___	AC-C1	409	Alfred Poon	Lucilla Poon	DanceDNA, Toronto, Canada
+ ___	AC-C1	410	Peter Kwok	Sue Tang	DanceDNA, Toronto, Canada
+
+ Heat 90 [16:51]   Quickstep
+ ___	L-A2	107	Ute Kuras	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-A2	119	Ирина Дмитриева	Даниил Варламов	St.-Petersburg, St.-Petersburg, Russia
+ 
+ ___	AC-C1	409	Alfred Poon	Lucilla Poon	DanceDNA, Toronto, Canada
+ ___	AC-C1	410	Peter Kwok	Sue Tang	DanceDNA, Toronto, Canada
+
+ 
+ Heat 91 [16:53]   Slowfox
+ ___	L-B1	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-B1	119	Ирина Дмитриева	Даниил Варламов	St.-Petersburg, St.-Petersburg, Russia
+ _X_	L-B1	128	Марина Медведева	Федор Исаев	Perm, Perm, Russia
+ ___	L-B1	144	Лина Конькова	Илья Ларионов	Ekaterinburg, Ekaterinburg, Russia
+
+ Heat 92 [16:55]   Quickstep
+ ___	L-B1	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-B1	119	Ирина Дмитриева	Даниил Варламов	St.-Petersburg, St.-Petersburg, Russia
+ _X_	L-B1	128	Марина Медведева	Федор Исаев	Perm, Perm, Russia
+ ___	L-B1	144	Лина Конькова	Илья Ларионов	Ekaterinburg, Ekaterinburg, Russia
+
+ 
+ [16:57] Pro-Am Eurasian Cup Show Dance - Latin, American Rhythm, Arg.Tango, Fusion
+ 
+ Heat 93 [16:57]   Eurasian Cup Show Dance 26.08 (Latin, American Rhythm, Arg.Tango, Fusion)
+ ___	L-Y	136	Александра Шор	Елена Колыхалова	GallaDance Мичуринский, Moscow, Russia
+
+ Heat 94 [17:02]   Eurasian Cup Show Dance 26.08 (Latin, American Rhythm, Arg.Tango, Fusion)
+ ___	L-	110	Екатерина Баранова	Иван Багаев	GallaDance Крестовский, St.-Petersburg, Russia
+
+ Heat 95 [17:07]   Eurasian Cup Show Dance 26.08 (Latin, American Rhythm, Arg.Tango, Fusion)
+ ___	L-Y	136	Анна Сорокина	Елена Колыхалова	GallaDance Мичуринский, Moscow, Russia
+
+ Heat 96 [17:12]   Eurasian Cup Show Dance 26.08 (Latin, American Rhythm, Arg.Tango, Fusion)
+ ___	L-	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+
+ Heat 97 [17:17]   Eurasian Cup Show Dance 26.08 (Latin, American Rhythm, Arg.Tango, Fusion)
+ ___	L-Y	136	Александра Шор	Елена Колыхалова	GallaDance Мичуринский, Moscow, Russia
+
+ Heat 220 [17:22]   Eurasian Cup Show Dance 26.08 (Latin, American Rhythm, Arg.Tango, Fusion)
+ ___	L-Y	136	Анна Сорокина	Елена Колыхалова	GallaDance Мичуринский, Moscow, Russia
+
+ 
+ [17:27] Pro-Am Eurasian 10 Dance Cup Open - International Standard
+ 
+ Heat 98 [17:27]   Eurasian 10 Dance Cup Open - Waltz
+ ___	L-	125	Елена Фокина	Николай Жук	Фан Флан, St.-Petersburg, Russia
+
+ Heat 99 [17:29]   Eurasian 10 Dance Cup Open - Tango
+ ___	L-	125	Елена Фокина	Николай Жук	Фан Флан, St.-Petersburg, Russia
+
+ Heat 100 [17:31]   Eurasian 10 Dance Cup Open - V. Waltz
+ ___	L-	125	Елена Фокина	Николай Жук	Фан Флан, St.-Petersburg, Russia
+
+ Heat 101 [17:33]   Eurasian 10 Dance Cup Open - SlowFox
+ ___	L-	125	Елена Фокина	Николай Жук	Фан Флан, St.-Petersburg, Russia
+
+ Heat 102 [17:35]   Eurasian 10 Dance Cup Open - Quickstep
+ ___	L-	125	Елена Фокина	Николай Жук	Фан Флан, St.-Petersburg, Russia
+
+ 
+ [17:37] Awards - Eurasian Cup - International Standard Single Dance, Show Dance
+ [17:37] Awards - Eurasian Cup - International Standard Single Dance, Show Dance
+ 
+
+ [19:00] Opening Ceremony
+ [19:00] Opening Ceremony
+ 
+ [19:25] WDC AL Youth-1 Latin - 1/4
+ 
+ [19:40] Pro-Am Arg. Tango Free Style - Scholarship (age C) - Final
+ 
+ Heat 103 [19:40]   Scholarship Arg. Tango Free Style (Arg. Tango/Vals/Milonga)
+ ___	L-C	101	Daniela Parmigiani	Gianni Cugge	Baccare Baccare, Milano, Italy
+
+ 
+ [19:50] Pro-Am International Latin - Scholarship (age C) - Final
+ 
+ Heat 104 [19:50]   Scholarship Latin (C/S/R/P/J)
+ ___	L-C	102	Edita Kondratiene	Nikita Moisejenko	Vilnius, Vilnius, Lithuania
+ ___	L-C	138	Ирина Блинникова	Вячеслав Коровин	Московский Танцевальный Альянс, Moscow, Russia
+ ___	L-C	155	Елена Нефедова	Георгий Осадчий	Moscow, Moscow, Russia
+ ___	L-C	180	Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+ ___	G-C	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ 
+ [20:05] WDC AL Youth-1 Latin - 1/2
+ 
+ [20:20] Pro-Am International Latin - Scholarship (age B) - Final
+ 
+ Heat 59 [20:20]  Final Round  Scholarship Latin (C/S/R/P/J)
+ 	Final Round L-B Scholarship Latin (C/S/R/P/J)
+
+ 
+ [20:35] Showcase
+ 
+ Heat 105 [20:35]   Showcase VIP
+ ___	L-		Daniela Parmigiani	Gianni Cugge	Baccare Baccare, Milano, Italy
+
+ 
+ [20:40] WDC AL Youth-1 Latin - Final
+ 
+ [20:50] Showcase
+ 
+ Heat 106 [20:50]   Showcase VIP "Mr. and Ms. Smith"
+ ___	G-		Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ 
+ [20:55] Professional Open to the World Show Dance Competition (Standard) - Final
+ 
+ [21:10] Pro-Am International Latin - Scholarship (age A) - Final
+ 
+ Heat 60 [21:10]  Final Round  Scholarship Latin (C/S/R/P/J)
+ 	Final Round L-A Scholarship Latin (C/S/R/P/J)
+
+ 
+ [21:25] Awards - Youth-1 Latin, Professional
+ [21:25] Awards - Youth-1 Latin, Professional
+ 
+ [21:35] WDC AL Youth-2 Standard - 1/2
+ 
+ [21:50] Showcase
+ 
+ Heat 107 [21:50]   Showcase VIP
+ ___	L-		Марина Кальченко	Константин Яценко	Omsk, Omsk, Russia
+
+ 
+ [21:55] WDC AL Adults Latin - 1/2
+ 
+ [22:10] SHOW Анна Ковалинская - Андрей Бущик
+ 
+ [22:15] International Standard - Eurasian Cup Open (all ages) Am-Am
+ 
+ Heat 108 [22:15]   Eurasian 5 Dance Cup Open Standard (W/T/VW/F/Q)
+ ___	AC-	406	Андрей Иванов	Анна Иванова	Союз , Moscow, Russia
+ ___	AC-	409	Alfred Poon	Lucilla Poon	DanceDNA, Toronto, Canada
+ ___	AC-	410	Peter Kwok	Sue Tang	DanceDNA, Toronto, Canada
+
+ 
+ [22:24] WDC AL Youth-2 Standard - Final
+ 
+ [22:40] International Standard - Eurasian Cup Open (all ages) Pro-Am
+ 
+ Heat 108 [22:40]   Eurasian 5 Dance Cup Open Standard (W/T/VW/F/Q)
+ ___	L-	107	Ute Kuras	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-	119	Ирина Дмитриева	Даниил Варламов	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-	128	Марина Медведева	Федор Исаев	Perm, Perm, Russia
+ ___	L-	144	Лина Конькова	Илья Ларионов	Ekaterinburg, Ekaterinburg, Russia
+ ___	L-	150	Наталия Кузнецова	Фаридун Мирзоев	Surgut, Surgut, Russia
+ ___	L-	152	Вероника Царева	Андрей Мотыль	Moscow, Moscow, Russia
+ ___	L-	158	Марина Трацевская	Александр Подгорелкин	St.-Petersburg, St.-Petersburg, Russia
+ ___	G-	402	Anatoliy Kostin	Tatyana Rozhkova	DanceLand, Kiyv, Ukraine
+
+ [22:49] WDC AL Adults Latin - Final
+ 
+ [23:00] Awards - Youth-2, Adults
+ [23:00] Awards - Youth-2, Adults
+ 
+
+ [09:00] WDC AL Juveniles-1 Standard
+ [09:00] WDC AL Juveniles-2 Latin
+ [09:00] WDC AL Juniors-1 Standard
+ [09:00] WDC AL Juniors-2 Latin
+ [09:00] EATO Eurasian Cup Juveniles-1 St
+ [09:00] EATO Eurasian Cup Juveniles-2 La
+ [09:00] EATO Eurasian Cup Juniors-1 St
+ [09:00] EATO Eurasian Cup Juniors-2 La
+
+ 
+ [12:30] Pro-Am International Standard - Single Dance
+ 
+ Heat 109 [12:30]  Bronze Open Waltz
+ ___	L-B1	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B2	121	Ольга Михайлова	Илья Гоготов	Триумф, Volgograd, Russia
+ ___	L-B2	162	Елена Попова (Мск)	Андрей Призенцов	
+ ___	L-B2	168	Юлия Меркурьева	Дмитрий Табаков	St.-Petersburg, St.-Petersburg, Russia
+
+ Heat 110 [12:31]  Bronze Open Tango
+ ___	L-B1	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B2	121	Ольга Михайлова	Илья Гоготов	Триумф, Volgograd, Russia
+ ___	L-B2	162	Елена Попова (Мск)	Андрей Призенцов	
+ ___	L-B2	168	Юлия Меркурьева	Дмитрий Табаков	St.-Petersburg, St.-Petersburg, Russia
+
+ Heat 111 [12:33]  Bronze Open V. Waltz
+ ___	L-B1	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B2	121	Ольга Михайлова	Илья Гоготов	Триумф, Volgograd, Russia
+ ___	L-B2	168	Юлия Меркурьева	Дмитрий Табаков	St.-Petersburg, St.-Petersburg, Russia
+
+ Heat 112 [12:34]  Waltz
+ Silver Open
+ ___	L-A2	103	Solvita Balode	Marts Punins	Riga, Riga, Latvia
+ ___	L-A2	129	Наталья Рыбакова	Алексей Кабанов	GallaDance ЦМТ, Moscow, Russia
+ ___	L-A2	137	Полина Терпугова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ Gold Beginner
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+ Bronze Beginner
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 113 [12:36]  Tango
+ Silver Open
+ ___	L-A2	103	Solvita Balode	Marts Punins	Riga, Riga, Latvia
+ ___	L-A2	129	Наталья Рыбакова	Алексей Кабанов	GallaDance ЦМТ, Moscow, Russia
+ ___	L-A2	137	Полина Терпугова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ Gold Beginner
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+
+ Heat 114 [12:38]  V. Waltz
+ Silver Open
+ ___	L-A2	103	Solvita Balode	Marts Punins	Riga, Riga, Latvia
+ ___	L-A2	129	Наталья Рыбакова	Алексей Кабанов	GallaDance ЦМТ, Moscow, Russia
+ ___	L-A2	137	Полина Терпугова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ Gold Beginner
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+ Bronze Beginner
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 115 [12:39]  Waltz
+ Bronze Full
+ ___	L-A1	167	Арина Молоткова	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ 
+ ___	L-B1	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ Bronze Open
+ ___	L-A2	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B2	147	Виктория Левина	Роман Мансуров	St.-Petersburg, St.-Petersburg, Russia
+ Bronze Full
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 116 [12:41]  Tango
+ Bronze Full
+ ___	L-A1	167	Арина Молоткова	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ 
+ ___	L-B1	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ Bronze Open
+ ___	L-A2	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B2	147	Виктория Левина	Роман Мансуров	St.-Petersburg, St.-Petersburg, Russia
+
+ Heat 117 [12:42]  V. Waltz
+ Bronze Full
+ ___	L-A1	167	Арина Молоткова	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ 
+ ___	L-B1	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ Bronze Open
+ ___	L-A2	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B2	147	Виктория Левина	Роман Мансуров	St.-Petersburg, St.-Petersburg, Russia
+ Bronze Full
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 118 [12:44]  Bronze Open Slow Fox
+ ___	L-B1	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B2	121	Ольга Михайлова	Илья Гоготов	Триумф, Volgograd, Russia
+ ___	L-B2	162	Елена Попова (Мск)	Андрей Призенцов	
+
+ Heat 119 [12:46]  Bronze Open Quickstep
+ ___	L-B1	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B2	121	Ольга Михайлова	Илья Гоготов	Триумф, Volgograd, Russia
+ ___	L-B2	162	Елена Попова (Мск)	Андрей Призенцов	
+ ___	L-B2	168	Юлия Меркурьева	Дмитрий Табаков	St.-Petersburg, St.-Petersburg, Russia
+
+ Heat 120 [12:47]  Slow Fox
+ Silver Open
+ ___	L-A2	103	Solvita Balode	Marts Punins	Riga, Riga, Latvia
+ ___	L-A2	129	Наталья Рыбакова	Алексей Кабанов	GallaDance ЦМТ, Moscow, Russia
+ ___	L-A2	137	Полина Терпугова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ Gold Beginner
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+
+ Heat 121 [12:49]  Quickstep
+ Silver Open
+ ___	L-A2	103	Solvita Balode	Marts Punins	Riga, Riga, Latvia
+ ___	L-A2	129	Наталья Рыбакова	Алексей Кабанов	GallaDance ЦМТ, Moscow, Russia
+ ___	L-A2	137	Полина Терпугова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ Gold Beginner
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+
+ Heat 122 [12:50]  Slow Fox
+ Bronze Full
+ ___	L-A1	167	Арина Молоткова	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ 
+ ___	L-B1	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ Bronze Open
+ ___	L-A2	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B2	147	Виктория Левина	Роман Мансуров	St.-Petersburg, St.-Petersburg, Russia
+
+ Heat 123 [12:52]  Quickstep
+ Bronze Full
+ ___	L-A1	167	Арина Молоткова	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ 
+ ___	L-B1	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ Bronze Open
+ ___	L-A2	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B2	147	Виктория Левина	Роман Мансуров	St.-Petersburg, St.-Petersburg, Russia
+
+ Heat 124 [12:54]  Waltz
+ Silver Open
+ ___	L-B1	129	Наталья Рыбакова	Алексей Кабанов	GallaDance ЦМТ, Moscow, Russia
+ ___	L-B1	144	Лина Конькова	Илья Ларионов	Ekaterinburg, Ekaterinburg, Russia
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	177	Марина Зеленова	Петр Шигин	Moscow, Moscow, Russia
+ Bronze Intermediate
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 125 [12:55]  Silver Open Tango
+ ___	L-B1	129	Наталья Рыбакова	Алексей Кабанов	GallaDance ЦМТ, Moscow, Russia
+ ___	L-B1	144	Лина Конькова	Илья Ларионов	Ekaterinburg, Ekaterinburg, Russia
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	177	Марина Зеленова	Петр Шигин	Moscow, Moscow, Russia
+
+ Heat 126 [12:57]  V. Waltz
+ Silver Open
+ ___	L-B1	129	Наталья Рыбакова	Алексей Кабанов	GallaDance ЦМТ, Moscow, Russia
+ ___	L-B1	144	Лина Конькова	Илья Ларионов	Ekaterinburg, Ekaterinburg, Russia
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	177	Марина Зеленова	Петр Шигин	Moscow, Moscow, Russia
+ Bronze Intermediate
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 127 [12:58]  Waltz
+ Silver Beginner
+ ___	L-B2	121	Ольга Михайлова	Илья Гоготов	
+ ___	L-B2	168	Юлия Меркурьева	Дмитрий Табаков	St.-Petersburg, St.-Petersburg, Russia
+ Silver Full
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-A1	162	Полина Рудомётова	Андрей Призенцов	Moscow, Moscow, Russia
+ 
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+ Silver Beginner
+ ___	L-K1	104	Diana Bissembayeva	Abdi Shamshiyev	GallaDance Dostyk, Almaty, Kazakhstan
+
+ Heat 128 [13:00]  Tango
+ Silver Beginner
+ ___	L-B2	168	Юлия Меркурьева	Дмитрий Табаков	St.-Petersburg, St.-Petersburg, Russia
+ Silver Full
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-A1	162	Полина Рудомётова	Андрей Призенцов	Moscow, Moscow, Russia
+ 
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 129 [13:02]  V. Waltz
+ Silver Beginner
+ ___	L-B2	168	Юлия Меркурьева	Дмитрий Табаков	St.-Petersburg, St.-Petersburg, Russia
+ Silver Full
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-A1	162	Полина Рудомётова	Андрей Призенцов	Moscow, Moscow, Russia
+ 
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 130 [13:03]  Silver Open Slow Fox
+ ___	L-B1	129	Наталья Рыбакова	Алексей Кабанов	GallaDance ЦМТ, Moscow, Russia
+ ___	L-B1	144	Лина Конькова	Илья Ларионов	Ekaterinburg, Ekaterinburg, Russia
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	177	Марина Зеленова	Петр Шигин	Moscow, Moscow, Russia
+
+ Heat 131 [13:05]  Silver Open Quickstep
+ ___	L-B1	129	Наталья Рыбакова	Алексей Кабанов	GallaDance ЦМТ, Moscow, Russia
+ ___	L-B1	144	Лина Конькова	Илья Ларионов	Ekaterinburg, Ekaterinburg, Russia
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	177	Марина Зеленова	Петр Шигин	Moscow, Moscow, Russia
+
+ Heat 132 [13:06]  Slow Fox
+ Silver Full
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-A1	162	Полина Рудомётова	Андрей Призенцов	Moscow, Moscow, Russia
+ 
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 133 [13:08]  Quickstep
+ Silver Beginner
+ ___	L-B2	168	Юлия Меркурьева	Дмитрий Табаков	St.-Petersburg, St.-Petersburg, Russia
+ Silver Full
+ ___	L-A2	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	L-B2	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-A1	162	Полина Рудомётова	Андрей Призенцов	Moscow, Moscow, Russia
+ 
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 134 [13:10]  Gold Open Waltz
+ ___	L-B1	126	Татьяна Лебедева	Алексей Зайцев	Moscow, Moscow, Russia
+ ___	L-B1	131	Марина Синявская	Валерий Кацыр	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-B1	141	Алена Ремизова	Иван Крылов	Танцландия, Moscow, Russia
+ ___	L-B1	177	Марина Зеленова	Петр Шигин	Moscow, Moscow, Russia
+ ___	L-B1	181	Наталья Плеханова	Эдуард Жигурт	Jenavi Club, St.-Petersburg, Russia
+ 
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 135 [13:11]  Gold Open Tango
+ ___	L-B1	126	Татьяна Лебедева	Алексей Зайцев	Moscow, Moscow, Russia
+ ___	L-B1	131	Марина Синявская	Валерий Кацыр	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-B1	141	Алена Ремизова	Иван Крылов	Танцландия, Moscow, Russia
+ ___	L-B1	177	Марина Зеленова	Петр Шигин	Moscow, Moscow, Russia
+ ___	L-B1	181	Наталья Плеханова	Эдуард Жигурт	Jenavi Club, St.-Petersburg, Russia
+ 
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 136 [13:13]  Gold Open V. Waltz
+ ___	L-B1	126	Татьяна Лебедева	Алексей Зайцев	Moscow, Moscow, Russia
+ ___	L-B1	131	Марина Синявская	Валерий Кацыр	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-B1	141	Алена Ремизова	Иван Крылов	Танцландия, Moscow, Russia
+ ___	L-B1	177	Марина Зеленова	Петр Шигин	Moscow, Moscow, Russia
+ ___	L-B1	181	Наталья Плеханова	Эдуард Жигурт	Jenavi Club, St.-Petersburg, Russia
+ 
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 137 [13:14]  Waltz
+ Gold Full
+ ___	L-B1	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ Gold Open
+ ___	L-A2	137	Полина Терпугова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	161	Юлия Дмитриева	Виктор Преснецов	St.-Petersburg, St.-Petersburg, Russia
+ Silver Open
+ ___	G-C1	402	Anatoliy Kostin	Tatyana Rozhkova	DanceLand, Kiyv, Ukraine
+ 
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ Heat 138 [13:16]  Tango
+ Gold Full
+ ___	L-B1	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ Gold Open
+ ___	L-A2	137	Полина Терпугова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	161	Юлия Дмитриева	Виктор Преснецов	St.-Petersburg, St.-Petersburg, Russia
+ Silver Open
+ ___	G-C1	402	Anatoliy Kostin	Tatyana Rozhkova	DanceLand, Kiyv, Ukraine
+ 
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ Heat 139 [13:18]  V. Waltz
+ Gold Full
+ ___	L-B1	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ Gold Open
+ ___	L-A2	137	Полина Терпугова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	161	Юлия Дмитриева	Виктор Преснецов	St.-Petersburg, St.-Petersburg, Russia
+ Silver Open
+ ___	G-C1	402	Anatoliy Kostin	Tatyana Rozhkova	DanceLand, Kiyv, Ukraine
+ 
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ Heat 140 [13:19]  Gold Open Slow Fox
+ ___	L-B1	126	Татьяна Лебедева	Алексей Зайцев	Moscow, Moscow, Russia
+ ___	L-B1	131	Марина Синявская	Валерий Кацыр	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-B1	141	Алена Ремизова	Иван Крылов	Танцландия, Moscow, Russia
+ ___	L-B1	177	Марина Зеленова	Петр Шигин	Moscow, Moscow, Russia
+ ___	L-B1	181	Наталья Плеханова	Эдуард Жигурт	Jenavi Club, St.-Petersburg, Russia
+ 
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 141 [13:21]  Gold Open Quickstep
+ ___	L-B1	126	Татьяна Лебедева	Алексей Зайцев	Moscow, Moscow, Russia
+ ___	L-B1	131	Марина Синявская	Валерий Кацыр	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-B1	141	Алена Ремизова	Иван Крылов	Танцландия, Moscow, Russia
+ ___	L-B1	177	Марина Зеленова	Петр Шигин	Moscow, Moscow, Russia
+ ___	L-B1	181	Наталья Плеханова	Эдуард Жигурт	Jenavi Club, St.-Petersburg, Russia
+ 
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 142 [13:22]  Slow Fox
+ Gold Full
+ ___	L-B1	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ Gold Open
+ ___	L-A2	137	Полина Терпугова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	161	Юлия Дмитриева	Виктор Преснецов	St.-Petersburg, St.-Petersburg, Russia
+ Silver Open
+ ___	G-C1	402	Anatoliy Kostin	Tatyana Rozhkova	DanceLand, Kiyv, Ukraine
+ 
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ Heat 143 [13:24]  Quickstep
+ Gold Full
+ ___	L-B1	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ Gold Open
+ ___	L-A2	137	Полина Терпугова	Юрий Комаров	Moscow, Moscow, Russia
+ ___	L-A2	161	Юлия Дмитриева	Виктор Преснецов	St.-Petersburg, St.-Petersburg, Russia
+ Silver Open
+ ___	G-C1	402	Anatoliy Kostin	Tatyana Rozhkova	DanceLand, Kiyv, Ukraine
+ 
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ Heat 144 [13:26]  Gold Star Open Waltz
+ ___	L-B1	109	Ольга Богачева	Илья Асонов	Moscow, Moscow, Russia
+ ___	L-B1	115	Анна Печенова	Филипп Борисенок	Tango Dance Studio, Moscow, Russia
+ ___	L-B1	128	Марина Медведева	Федор Исаев	Perm, Perm, Russia
+ ___	L-B1	131	Марина Синявская	Валерий Кацыр	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-B1	132	Ирина Светлицкая	Петр Кашинский	Moscow, Moscow, Russia
+ ___	L-B1	175	Ольга Гаврикова	Антон Шевченко	Танцландия, Moscow, Russia
+
+ Heat 145 [13:27]  Gold Star Open Tango
+ ___	L-B1	109	Ольга Богачева	Илья Асонов	Moscow, Moscow, Russia
+ ___	L-B1	115	Анна Печенова	Филипп Борисенок	Tango Dance Studio, Moscow, Russia
+ ___	L-B1	128	Марина Медведева	Федор Исаев	Perm, Perm, Russia
+ ___	L-B1	131	Марина Синявская	Валерий Кацыр	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-B1	132	Ирина Светлицкая	Петр Кашинский	Moscow, Moscow, Russia
+ ___	L-B1	175	Ольга Гаврикова	Антон Шевченко	Танцландия, Moscow, Russia
+
+ Heat 146 [13:29]  Gold Star Open V. Waltz
+ ___	L-B1	109	Ольга Богачева	Илья Асонов	Moscow, Moscow, Russia
+ ___	L-B1	115	Анна Печенова	Филипп Борисенок	Tango Dance Studio, Moscow, Russia
+ ___	L-B1	128	Марина Медведева	Федор Исаев	Perm, Perm, Russia
+ ___	L-B1	131	Марина Синявская	Валерий Кацыр	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-B1	132	Ирина Светлицкая	Петр Кашинский	Moscow, Moscow, Russia
+ ___	L-B1	175	Ольга Гаврикова	Антон Шевченко	Танцландия, Moscow, Russia
+
+ Heat 147 [13:30]  Waltz
+ Gold Full
+ ___	L-A2	107	Ute Kuras	Sergii Tymchenko	Dance For You, Dubai, UAE
+ Gold Open
+ ___	L-B2	103	Solvita Balode	Marts Punins	Riga, Riga, Latvia
+ ___	L-B2	106	Irina Emmons	Nikita Sokolov	Inspiration to Dance, London, Great Britain
+ ___	L-B2	158	Марина Трацевская	Александр Подгорелкин	St.-Petersburg, St.-Petersburg, Russia
+ 
+ ___	G-B2	407	Алексей Семенов (Am)	Вера Нам	St.-Petersburg, St.-Petersburg, Russia
+
+ Heat 148 [13:32]  Tango
+ Gold Full
+ ___	L-A2	107	Ute Kuras	Sergii Tymchenko	Dance For You, Dubai, UAE
+ Gold Open
+ ___	L-B2	103	Solvita Balode	Marts Punins	Riga, Riga, Latvia
+ ___	L-B2	106	Irina Emmons	Nikita Sokolov	Inspiration to Dance, London, Great Britain
+ ___	L-B2	158	Марина Трацевская	Александр Подгорелкин	St.-Petersburg, St.-Petersburg, Russia
+ 
+ ___	G-B2	407	Алексей Семенов (Am)	Вера Нам	St.-Petersburg, St.-Petersburg, Russia
+
+ Heat 149 [13:34]  V. Waltz
+ Gold Full
+ ___	L-A2	107	Ute Kuras	Sergii Tymchenko	Dance For You, Dubai, UAE
+ Gold Open
+ ___	L-B2	103	Solvita Balode	Marts Punins	Riga, Riga, Latvia
+ ___	L-B2	106	Irina Emmons	Nikita Sokolov	Inspiration to Dance, London, Great Britain
+ ___	L-B2	158	Марина Трацевская	Александр Подгорелкин	St.-Petersburg, St.-Petersburg, Russia
+ 
+ ___	G-B2	407	Алексей Семенов (Am)	Вера Нам	St.-Petersburg, St.-Petersburg, Russia
+
+ Heat 150 [13:35]  Gold Star Open Slow Fox
+ ___	L-B1	109	Ольга Богачева	Илья Асонов	Moscow, Moscow, Russia
+ ___	L-B1	115	Анна Печенова	Филипп Борисенок	Tango Dance Studio, Moscow, Russia
+ ___	L-B1	128	Марина Медведева	Федор Исаев	Perm, Perm, Russia
+ ___	L-B1	131	Марина Синявская	Валерий Кацыр	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-B1	132	Ирина Светлицкая	Петр Кашинский	Moscow, Moscow, Russia
+ ___	L-B1	175	Ольга Гаврикова	Антон Шевченко	Танцландия, Moscow, Russia
+
+ Heat 151 [13:37]  Gold Star Open Quickstep
+ ___	L-B1	109	Ольга Богачева	Илья Асонов	Moscow, Moscow, Russia
+ ___	L-B1	115	Анна Печенова	Филипп Борисенок	Tango Dance Studio, Moscow, Russia
+ ___	L-B1	128	Марина Медведева	Федор Исаев	Perm, Perm, Russia
+ ___	L-B1	131	Марина Синявская	Валерий Кацыр	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-B1	132	Ирина Светлицкая	Петр Кашинский	Moscow, Moscow, Russia
+ ___	L-B1	175	Ольга Гаврикова	Антон Шевченко	Танцландия, Moscow, Russia
+
+ Heat 152 [13:38]  Slow Fox
+ Gold Full
+ ___	L-A2	107	Ute Kuras	Sergii Tymchenko	Dance For You, Dubai, UAE
+ Gold Open
+ ___	L-B2	103	Solvita Balode	Marts Punins	Riga, Riga, Latvia
+ ___	L-B2	106	Irina Emmons	Nikita Sokolov	Inspiration to Dance, London, Great Britain
+ ___	L-B2	158	Марина Трацевская	Александр Подгорелкин	St.-Petersburg, St.-Petersburg, Russia
+ 
+ ___	G-B2	407	Алексей Семенов (Am)	Вера Нам	St.-Petersburg, St.-Petersburg, Russia
+
+ Heat 153 [13:40]  Quickstep
+ Gold Full
+ ___	L-A2	107	Ute Kuras	Sergii Tymchenko	Dance For You, Dubai, UAE
+ Gold Open
+ ___	L-B2	103	Solvita Balode	Marts Punins	Riga, Riga, Latvia
+ ___	L-B2	106	Irina Emmons	Nikita Sokolov	Inspiration to Dance, London, Great Britain
+ ___	L-B2	158	Марина Трацевская	Александр Подгорелкин	St.-Petersburg, St.-Petersburg, Russia
+ 
+ ___	G-B2	407	Алексей Семенов (Am)	Вера Нам	St.-Petersburg, St.-Petersburg, Russia
+
+ Heat 154 [13:42]  Waltz
+ Gold Open
+ ___	L-C1	150	Наталия Кузнецова	Фаридун Мирзоев	Surgut, Surgut, Russia
+ Gold Star Open
+ ___	L-A1	112	Анна Ермолаева	Егор Бикбаев	Novosibirsk, Novosibirsk, Russia
+ 
+ ___	L-A2	109	Ольга Богачева	Илья Асонов	Moscow, Moscow, Russia
+ ___	L-A2	124	Ирина Агалецкая	Александр Жиратков	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-A2	151	Ольга Тедикова	Родион Мишенев	Русский Стиль, St.-Petersburg, Russia
+ Gold Open
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ Heat 155 [13:43]  Tango
+ Gold Open
+ ___	L-C1	150	Наталия Кузнецова	Фаридун Мирзоев	Surgut, Surgut, Russia
+ Gold Star Open
+ ___	L-A1	112	Анна Ермолаева	Егор Бикбаев	Novosibirsk, Novosibirsk, Russia
+ 
+ ___	L-A2	109	Ольга Богачева	Илья Асонов	Moscow, Moscow, Russia
+ ___	L-A2	124	Ирина Агалецкая	Александр Жиратков	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-A2	151	Ольга Тедикова	Родион Мишенев	Русский Стиль, St.-Petersburg, Russia
+ Gold Open
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ Heat 156 [13:45]  V. Waltz
+ Gold Open
+ ___	L-C1	150	Наталия Кузнецова	Фаридун Мирзоев	Surgut, Surgut, Russia
+ Gold Star Open
+ ___	L-A1	112	Анна Ермолаева	Егор Бикбаев	Novosibirsk, Novosibirsk, Russia
+ 
+ ___	L-A2	124	Ирина Агалецкая	Александр Жиратков	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-A2	151	Ольга Тедикова	Родион Мишенев	Русский Стиль, St.-Petersburg, Russia
+
+ Heat 157 [13:46]  Gold Star Open Waltz
+ ___	L-B2	152	Вероника Царева	Андрей Мотыль	Moscow, Moscow, Russia
+ ___	L-B2	179	Екатерина Горохова	Вадим Шурин	Moscow, Moscow, Russia
+ 
+ ___	L-C1	175	Ольга Гаврикова	Антон Шевченко	Танцландия, Moscow, Russia
+ 
+ ___	G-B1	403	Dmitry Lityagin	Darya Konokhova	Duet, Minsk, Belarus
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 158 [13:48]  Gold Star Open Tango
+ ___	L-B2	152	Вероника Царева	Андрей Мотыль	Moscow, Moscow, Russia
+ ___	L-B2	179	Екатерина Горохова	Вадим Шурин	Moscow, Moscow, Russia
+ 
+ ___	L-C1	175	Ольга Гаврикова	Антон Шевченко	Танцландия, Moscow, Russia
+ 
+ ___	G-B1	403	Dmitry Lityagin	Darya Konokhova	Duet, Minsk, Belarus
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 159 [13:50]  Gold Star Open V. Waltz
+ ___	L-B2	152	Вероника Царева	Андрей Мотыль	Moscow, Moscow, Russia
+ ___	L-B2	179	Екатерина Горохова	Вадим Шурин	Moscow, Moscow, Russia
+ 
+ ___	L-C1	175	Ольга Гаврикова	Антон Шевченко	Танцландия, Moscow, Russia
+ 
+ ___	G-B1	403	Dmitry Lityagin	Darya Konokhova	Duet, Minsk, Belarus
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 160 [13:51]  Slow Fox
+ Gold Open
+ ___	L-C1	150	Наталия Кузнецова	Фаридун Мирзоев	Surgut, Surgut, Russia
+ Gold Star Open
+ ___	L-A1	112	Анна Ермолаева	Егор Бикбаев	Novosibirsk, Novosibirsk, Russia
+ 
+ ___	L-A2	109	Ольга Богачева	Илья Асонов	Moscow, Moscow, Russia
+ ___	L-A2	124	Ирина Агалецкая	Александр Жиратков	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-A2	151	Ольга Тедикова	Родион Мишенев	Русский Стиль, St.-Petersburg, Russia
+
+ Heat 161 [13:53]  Quickstep
+ Gold Open
+ ___	L-C1	150	Наталия Кузнецова	Фаридун Мирзоев	Surgut, Surgut, Russia
+ Gold Star Open
+ ___	L-A1	112	Анна Ермолаева	Егор Бикбаев	Novosibirsk, Novosibirsk, Russia
+ 
+ ___	L-A2	109	Ольга Богачева	Илья Асонов	Moscow, Moscow, Russia
+ ___	L-A2	124	Ирина Агалецкая	Александр Жиратков	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-A2	151	Ольга Тедикова	Родион Мишенев	Русский Стиль, St.-Petersburg, Russia
+
+ Heat 162 [13:54]  Gold Star Open Slow Fox
+ ___	L-B2	152	Вероника Царева	Андрей Мотыль	Moscow, Moscow, Russia
+ ___	L-B2	179	Екатерина Горохова	Вадим Шурин	Moscow, Moscow, Russia
+ 
+ ___	L-C1	175	Ольга Гаврикова	Антон Шевченко	Танцландия, Moscow, Russia
+ 
+ ___	G-B1	403	Dmitry Lityagin	Darya Konokhova	Duet, Minsk, Belarus
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 163 [13:56]  Gold Star Open Quickstep
+ ___	L-B2	152	Вероника Царева	Андрей Мотыль	Moscow, Moscow, Russia
+ ___	L-B2	179	Екатерина Горохова	Вадим Шурин	Moscow, Moscow, Russia
+ 
+ ___	L-C1	175	Ольга Гаврикова	Антон Шевченко	Танцландия, Moscow, Russia
+ 
+ ___	G-B1	403	Dmitry Lityagin	Darya Konokhova	Duet, Minsk, Belarus
+ ___	G-B1	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ 
+ [13:58] Pro-Am International Standard - Multi Dance
+ 
+ Heat 164 [13:58]  4 Dance Challenge Standard (W/T/F/Q)
+ Bronze Open
+ ___	L-B	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-B	162	Елена Попова (Мск)	Андрей Призенцов	Moscow, Moscow, Russia
+ Gold Open
+ ___	L-B	177	Марина Зеленова	Петр Шигин	Moscow, Moscow, Russia
+
+ Heat 165 [14:04]  5 Dance Challenge Standard (W/T/VW/F/Q)
+ Silver Open
+ ___	L-B	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B	129	Наталья Рыбакова	Алексей Кабанов	GallaDance ЦМТ, Moscow, Russia
+ ___	L-B	144	Лина Конькова	Илья Ларионов	Ekaterinburg, Ekaterinburg, Russia
+ ___	L-B	147	Виктория Левина	Роман Мансуров	St.-Petersburg, St.-Petersburg, Russia
+ ___	G-B	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+ Gold Full
+ ___	L-A	107	Ute Kuras	Sergii Tymchenko	Dance For You, Dubai, UAE
+
+ Heat 166 [14:12]  3 & 4 Dance Challenge Standard (W/T/F/Q)
+ Bronze Open 3 Dance Challenge Standard (W/T/Q)
+ ___	L-B	168	Юлия Меркурьева	Дмитрий Табаков	St.-Petersburg, St.-Petersburg, Russia
+ Bronze Full 4 Dance Challenge Standard (W/T/F/Q)
+ ___	L-A	167	Арина Молоткова	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ 
+ ___	L-B	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ Silver Open 4 Dance Challenge Standard (W/T/F/Q)
+ ___	L-B	177	Марина Зеленова	Петр Шигин	Moscow, Moscow, Russia
+
+ Heat 167 [14:18]  Gold Open 5 Dance Challenge Standard (W/T/VW/F/Q)
+ ___	L-B	103	Solvita Balode	Marts Punins	Riga, Riga, Latvia
+ ___	L-B	106	Irina Emmons	Nikita Sokolov	Inspiration to Dance, London, Great Britain
+ ___	L-B	126	Татьяна Лебедева	Алексей Зайцев	Moscow, Moscow, Russia
+ ___	L-B	181	Наталья Плеханова	Эдуард Жигурт	Jenavi Club, St.-Petersburg, Russia
+ ___	G-B	407	Алексей Семенов (Am)	Вера Нам	St.-Petersburg, St.-Petersburg, Russia
+ ___	G-B	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 168 [14:26]  5 Dance Challenge Standard (W/T/VW/F/Q)
+ Bronze Open
+ ___	L-B	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B	121	Ольга Михайлова	Илья Гоготов	Триумф-Волгоград
+ ___	L-B	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ Silver Open
+ ___	L-A	129	Наталья Рыбакова	Алексей Кабанов	GallaDance ЦМТ, Moscow, Russia
+ Gold Full
+ ___	L-B	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ Gold Open
+ ___	L-C	150	Наталия Кузнецова	Фаридун Мирзоев	Surgut, Surgut, Russia
+
+ Heat 169 [14:34]  Gold Star Open 5 Dance Challenge Standard (W/T/VW/F/Q)
+ ___	L-B	115	Анна Печенова	Филипп Борисенок	Tango Dance Studio, Moscow, Russia
+ _X_	L-B	128	Марина Медведева	Федор Исаев	Perm, Perm, Russia
+ ___	L-B	152	Вероника Царева	Андрей Мотыль	Moscow, Moscow, Russia
+ ___	L-B	175	Ольга Гаврикова	Антон Шевченко	Танцландия, Moscow, Russia
+ ___	G-B	403	Dmitry Lityagin	Darya Konokhova	Duet, Minsk, Belarus
+ ___	G-B	408	Фарид Ушаков	Мария Беломестных	Novosibirsk, Novosibirsk, Russia
+
+ Heat 170 [14:42]  5 Dance Challenge Standard (W/T/VW/F/Q)
+ Bronze Full
+ ___	L-A	167	Арина Молоткова	Илья Сухоносов	Школа танцев Е. Папунаишвили, Moscow, Russia
+ 
+ ___	L-B	133	Екатерина Серединская	Кирилл Кеппер	Школа танцев Е. Папунаишвили, Moscow, Russia
+ Bronze Open
+ ___	L-A	165	Марина Павлова	Дмитрий Смирнов	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Full
+ ___	L-B	120	Наталья Белоусова	Владимир Гаргалык	GallaDance Крестовский, St.-Petersburg, Russia
+ Gold Open
+ ___	L-A	137	Полина Терпугова	Юрий Комаров	Moscow, Moscow, Russia
+
+ 
+ [14:50] Pro-Am International Standard - Scholarship (age B) - 1/4
+ 
+ Heat 171 [14:50]  Quarter-final Round  Scholarship Standard (W/T/VW/F/Q)
+ Heat 1
+ ___	L-B	103	Solvita Balode	Marts Punins	Riga, Riga, Latvia
+ ___	L-B	107	Kellie Andrews	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-B	109	Ольга Богачева	Илья Асонов	Moscow, Moscow, Russia
+ ___	L-B	115	Анна Печенова	Филипп Борисенок	Tango Dance Studio, Moscow, Russia
+ ___	L-B	126	Татьяна Лебедева	Алексей Зайцев	Moscow, Moscow, Russia
+ ___	L-B	128	Марина Медведева	Федор Исаев	Perm, Perm, Russia
+ ___	L-B	131	Марина Синявская	Валерий Кацыр	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-B	132	Ирина Светлицкая	Петр Кашинский	Moscow, Moscow, Russia
+ ___	L-B	141	Алена Ремизова	Иван Крылов	Танцландия, Moscow, Russia
+ Heat 2
+ ___	L-B	144	Лина Конькова	Илья Ларионов	Ekaterinburg, Ekaterinburg, Russia
+ ___	L-B	152	Вероника Царева	Андрей Мотыль	Moscow, Moscow, Russia
+ ___	L-B	158	Марина Трацевская	Александр Подгорелкин	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-B	175	Ольга Гаврикова	Антон Шевченко	Танцландия, Moscow, Russia
+ ___	L-B	177	Марина Зеленова	Петр Шигин	Moscow, Moscow, Russia
+ ___	L-B	179	Екатерина Горохова	Вадим Шурин	Moscow, Moscow, Russia
+ ___	L-B	181	Наталья Плеханова	Эдуард Жигурт	Jenavi Club, St.-Petersburg, Russia
+ ___	G-B	403	Dmitry Lityagin	Darya Konokhova	Duet, Minsk, Belarus
+ ___	G-B	407	Алексей Семенов (Am)	Вера Нам	St.-Petersburg, St.-Petersburg, Russia
+
+ 
+ [15:05] Warm-up - Arg.Tango (Salon), American Smooth (10 min.)
+ 
+ [15:15] Pro-Am American Smooth - Single Dance
+ 
+ Heat 172 [15:15]  Silver Open Waltz
+ ___	L-B1	110	Екатерина Полякова	Иван Багаев	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	
+
+ Heat 173 [15:17]  Silver Open Tango
+ ___	L-B1	110	Екатерина Полякова	Иван Багаев	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	
+
+ Heat 174 [15:19]  Silver Open Foxtrot
+ ___	L-B1	110	Екатерина Полякова	Иван Багаев	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	
+
+ Heat 175 [15:21]  Silver Open V. Waltz
+ ___	L-B1	110	Екатерина Полякова	Иван Багаев	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+ ___	G-C2	405	Ram Viswanathan	Sarika Hudson	
+
+ 
+ [15:22] Pro-Am Arg. Tango Salon - Single Dance
+ 
+ Heat 176 [15:22]  Bronze Open Arg. Tango - Arg. Tango Salon
+ ___	L-B1	108	Евгения Вострякова	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	172	Виктория Берещьян	Евгений Червонов	La Boca , St.-Petersburg, Russia
+
+ Heat 177 [15:24]  Bronze Open Vals - Arg. Tango Salon
+ ___	L-B1	108	Евгения Вострякова	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	172	Виктория Берещьян	Евгений Червонов	La Boca , St.-Petersburg, Russia
+
+ Heat 178 [15:26]  Bronze Open Milonga - Arg. Tango Salon
+ ___	L-B1	108	Евгения Вострякова	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	172	Виктория Берещьян	Евгений Червонов	La Boca , St.-Petersburg, Russia
+
+ Heat 179 [15:28]  Arg. Tango - Arg. Tango Salon
+ Silver Beginner
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B1	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	172	Виктория Берещьян	Евгений Червонов	La Boca , St.-Petersburg, Russia
+
+ Heat 180 [15:30]  Vals - Arg. Tango Salon
+ Silver Beginner
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B1	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	172	Виктория Берещьян	Евгений Червонов	La Boca , St.-Petersburg, Russia
+
+ Heat 181 [15:32]  Milonga - Arg. Tango Salon
+ Silver Beginner
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-B1	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	172	Виктория Берещьян	Евгений Червонов	La Boca , St.-Petersburg, Russia
+
+ 
+ Heat 182 [15:34]  Gold Open Waltz
+ ___	L-B1	110	Екатерина Полякова	Иван Багаев	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+
+ Heat 183 [15:36]  Gold Open Tango
+ ___	L-B1	110	Екатерина Полякова	Иван Багаев	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+
+ Heat 184 [15:38]  Gold Open Foxtrot
+ ___	L-B1	110	Екатерина Полякова	Иван Багаев	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+
+ Heat 185 [15:40]  Gold Open V. Waltz
+ ___	L-B1	110	Екатерина Полякова	Иван Багаев	GallaDance Крестовский, St.-Petersburg, Russia
+ 
+ ___	G-C2	401	John Gussenhoven	Iryna Mialyantsava	Lumina Ballroom, Wilmington, USA
+
+ 
+ Heat 186 [15:41]  Silver Full Arg. Tango - Arg. Tango Salon
+ ___	L-B1	108	Евгения Вострякова	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	172	Виктория Берещьян	Евгений Червонов	La Boca , St.-Petersburg, Russia
+
+ Heat 187 [15:43]  Silver Full Vals - Arg. Tango Salon
+ ___	L-B1	108	Евгения Вострякова	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	172	Виктория Берещьян	Евгений Червонов	La Boca , St.-Petersburg, Russia
+
+ Heat 188 [15:45]  Silver Full Milonga - Arg. Tango Salon
+ ___	L-B1	108	Евгения Вострякова	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B1	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B1	172	Виктория Берещьян	Евгений Червонов	La Boca , St.-Petersburg, Russia
+
+ Heat 189 [15:47]  Arg. Tango - Arg. Tango Salon
+ Silver Open
+ ___	L-A2	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-A2	163	Екатерина Уфимцева	Дмитрий Рыжов	La Boca , St.-Petersburg, Russia
+ Gold Star Open
+ ___	L-C2	101	Daniela Parmigiani	Gianni Cugge	Baccare Baccare, Milano, Italy
+
+ Heat 190 [15:49]  Vals - Arg. Tango Salon
+ Silver Open
+ ___	L-A2	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-A2	163	Екатерина Уфимцева	Дмитрий Рыжов	La Boca , St.-Petersburg, Russia
+ Gold Star Open
+ ___	L-C2	101	Daniela Parmigiani	Gianni Cugge	Baccare Baccare, Milano, Italy
+
+ Heat 191 [15:51]  Milonga - Arg. Tango Salon
+ Silver Open
+ ___	L-A2	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-A2	163	Екатерина Уфимцева	Дмитрий Рыжов	La Boca , St.-Petersburg, Russia
+ Gold Star Open
+ ___	L-C2	101	Daniela Parmigiani	Gianni Cugge	Baccare Baccare, Milano, Italy
+
+ 
+ [15:53] Pro-Am International Standard - Scholarship (age B) - 1/2
+ 
+ Heat 171 [15:53]  Semi-final Round  Scholarship Standard (W/T/VW/F/Q)
+ 	Semi-final Round L-B Scholarship Standard (W/T/VW/F/Q)
+
+ 
+ [16:08] Pro-Am American Smooth - Multi Dance
+ 
+ Heat 195 [16:08]  Silver Open American Smooth 4 Dance Challenge (W/T/F/VW)
+ ___	L-B	110	Екатерина Полякова	Иван Багаев	GallaDance Крестовский, St.-Petersburg, Russia
+
+ Heat 196 [16:15]  American Smooth 4 Dance Challenge (W/T/F/VW)
+ Gold Open
+ ___	L-B	110	Екатерина Полякова	Иван Багаев	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	G-C	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ 
+ [16:22] Pro-Am Arg. Tango Salon - Multi Dance
+ 
+ Heat 197 [16:22]  Arg. Tango Salon 3 Dance Challenge (Tango/Vals/Milonga)
+ Bronze Open
+ ___	L-B	108	Евгения Вострякова	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B	172	Виктория Берещьян	Евгений Червонов	La Boca , St.-Petersburg, Russia
+ Gold Star Open
+ ___	L-C	101	Daniela Parmigiani	Gianni Cugge	Baccare Baccare, Milano, Italy
+
+ Heat 198 [16:28]  Silver Full Arg. Tango Salon 3 Dance Challenge (Tango/Vals/Milonga)
+ ___	L-B	108	Евгения Вострякова	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	L-B	172	Виктория Берещьян	Евгений Червонов	La Boca , St.-Petersburg, Russia
+
+ Heat 199 [16:34]  Arg. Tango Salon 3 Dance Challenge (Tango/Vals/Milonga)
+ Silver Beginner
+ ___	L-B	154	Лидия Виноградова	Олег Новицкий	GallaDance Крестовский, St.-Petersburg, Russia
+ Silver Open
+ ___	L-A	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-A	163	Екатерина Уфимцева	Дмитрий Рыжов	La Boca , St.-Petersburg, Russia
+
+ Heat 200 [16:40]  Silver Open Arg. Tango Salon 3 Dance Challenge (Tango/Vals/Milonga)
+ ___	L-B	108	Юлия Королева	Андрей Ануров	Танцевальный Клуб Impressdance
+ ___	L-B	172	Виктория Берещьян	Евгений Червонов	La Boca , St.-Petersburg, Russia
+
+ 
+ [16:46] Pro-Am American Smooth - Scholarship (all ages)
+ 
+ Heat 201 [16:46]   Scholarship Am Smooth (W/T/F/VW)
+ ___	L-A	110	Екатерина Полякова	Иван Багаев	GallaDance Крестовский, St.-Petersburg, Russia
+ ___	G-A	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ 
+ Awards - Pro-Am American Smooth - Scholarship (all ages)
+ 
+ [16:54] Warm-up - International Latin (10 min.)
+ 
+ [17:05] Pro-Am International Latin - Eurasian Challenge (Single Dance)
+ 
+ Heat 202 [17:05]   Cha Cha
+ ___	L-A2	105	Ann Boothello	Pavel Silantev	Dance For You, Dubai, UAE
+ ___	L-A2	122	Галина Шашкова	Виталий Диденко	Moscow, Moscow, Russia
+ ___	L-A2	159	Елена Позднеева	Михаил Попов	Arena dance club, St.-Petersburg, Russia
+ ___	L-A2	170	Виктория Алексеева	Ян Хачатуров	Moscow, Moscow, Russia
+ 
+ ___	L-B1	142	Лилиана Большунова	Илья Куценко	GallaDance Жуковка, Moscow, Russia
+ 
+ ___	G-B2	404	Jury Logachev	Yana Minaieva	Kyiv, Kyiv, Ukraine
+
+ Heat 203 [17:07]   Samba
+ ___	L-A2	105	Ann Boothello	Pavel Silantev	Dance For You, Dubai, UAE
+ ___	L-A2	122	Галина Шашкова	Виталий Диденко	Moscow, Moscow, Russia
+ ___	L-A2	159	Елена Позднеева	Михаил Попов	Arena dance club, St.-Petersburg, Russia
+ ___	L-A2	170	Виктория Алексеева	Ян Хачатуров	Moscow, Moscow, Russia
+ 
+ ___	L-B1	142	Лилиана Большунова	Илья Куценко	GallaDance Жуковка, Moscow, Russia
+ 
+ ___	G-B2	404	Jury Logachev	Yana Minaieva	Kyiv, Kyiv, Ukraine
+
+ Heat 204 [17:09]   Rumba
+ ___	L-A2	105	Ann Boothello	Pavel Silantev	Dance For You, Dubai, UAE
+ ___	L-A2	122	Галина Шашкова	Виталий Диденко	Moscow, Moscow, Russia
+ ___	L-A2	159	Елена Позднеева	Михаил Попов	Arena dance club, St.-Petersburg, Russia
+ ___	L-A2	170	Виктория Алексеева	Ян Хачатуров	Moscow, Moscow, Russia
+ 
+ ___	L-B1	142	Лилиана Большунова	Илья Куценко	GallaDance Жуковка, Moscow, Russia
+ 
+ ___	G-B2	404	Jury Logachev	Yana Minaieva	Kyiv, Kyiv, Ukraine
+
+ Heat 205 [17:11]   Paso Doble
+ ___	L-A2	105	Ann Boothello	Pavel Silantev	Dance For You, Dubai, UAE
+ ___	L-A2	122	Галина Шашкова	Виталий Диденко	Moscow, Moscow, Russia
+ ___	L-A2	159	Елена Позднеева	Михаил Попов	Arena dance club, St.-Petersburg, Russia
+ ___	L-A2	170	Виктория Алексеева	Ян Хачатуров	Moscow, Moscow, Russia
+ 
+ ___	L-B1	142	Лилиана Большунова	Илья Куценко	GallaDance Жуковка, Moscow, Russia
+ 
+ ___	G-B2	404	Jury Logachev	Yana Minaieva	Kyiv, Kyiv, Ukraine
+
+ Heat 206 [17:12]   Jive
+ ___	L-A2	105	Ann Boothello	Pavel Silantev	Dance For You, Dubai, UAE
+ ___	L-A2	122	Галина Шашкова	Виталий Диденко	Moscow, Moscow, Russia
+ ___	L-A2	159	Елена Позднеева	Михаил Попов	Arena dance club, St.-Petersburg, Russia
+ ___	L-A2	170	Виктория Алексеева	Ян Хачатуров	Moscow, Moscow, Russia
+ 
+ ___	L-B1	142	Лилиана Большунова	Илья Куценко	GallaDance Жуковка, Moscow, Russia
+ 
+ ___	G-B2	404	Jury Logachev	Yana Minaieva	Kyiv, Kyiv, Ukraine
+
+ 
+ [17:14] Pro-Am Eurasian Cup Show Dance - Standard, Am.Smooth
+ 
+ Heat 207 [17:14]   Eurasian Cup Show Dance 27.08 (Standard, American Smooth)
+ ___	G-	402	Anatoliy Kostin	Tatyana Rozhkova	DanceLand, Kiyv, Ukraine
+
+ Heat 208 [17:19]   Eurasian Cup Show Dance 27.08 (Standard, American Smooth)
+ ___	G-	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ 
+ [17:24] Pro-Am Eurasian 10 Dance Cup Open - International Latin
+ 
+ Heat 209 [17:24]   Eurasian 10 Dance Cup Open - Cha Cha
+ ___	L-	125	Елена Фокина	Николай Жук	Фан Флан, St.-Petersburg, Russia
+
+ Heat 210 [17:26]   Eurasian 10 Dance Cup Open - Samba
+ ___	L-	125	Елена Фокина	Николай Жук	Фан Флан, St.-Petersburg, Russia
+
+ Heat 211 [17:28]   Eurasian 10 Dance Cup Open - Rumba
+ ___	L-	125	Елена Фокина	Николай Жук	Фан Флан, St.-Petersburg, Russia
+
+ Heat 212 [17:30]   Eurasian 10 Dance Cup Open - Paso Doble
+ ___	L-	125	Елена Фокина	Николай Жук	Фан Флан, St.-Petersburg, Russia
+
+ Heat 213 [17:32]   Eurasian 10 Dance Cup Open - Jive
+ ___	L-	125	Елена Фокина	Николай Жук	Фан Флан, St.-Petersburg, Russia
+
+ 
+ [17:34] Awards - Eurasian Cup - International Latin Single Dance, Show Dance, 10 Dance
+
+ [19:00] Opening Ceremony
+ 
+ [19:25] WDC AL - Youth-1 Standard - 1/4
+ 
+ [19:40] Pro-Am Arg. Tango Salon - Scholarship (age C) - Final
+ 
+ Heat 214 [19:40]   Scholarship Arg. Tango Salon (Arg. Tango/Vals/Milonga)
+ ___	L-C	101	Daniela Parmigiani	Gianni Cugge	Baccare Baccare, Milano, Italy
+
+ 
+ [19:50] Pro-Am International Standard - Scholarship (age C) - Final
+ 
+ Heat 215 [19:50]   Scholarship Standard (W/T/VW/F/Q)
+ ___	L-C	150	Наталия Кузнецова	Фаридун Мирзоев	Surgut, Surgut, Russia
+ ___	L-C	175	Ольга Гаврикова	Антон Шевченко	Танцландия, Moscow, Russia
+ ___	G-C	402	Anatoliy Kostin	Tatyana Rozhkova	DanceLand, Kiyv, Ukraine
+ ___	G-C	405	Ram Viswanathan	Sarika Hudson	New York, New York, USA
+
+ 
+ [20:05] Showcase
+ 
+ Heat 216 [20:05]   Showcase VIP
+ ___	L-		Марина Щербакова	Виталий Диденко	Moscow, Moscow, Russia
+
+ 
+ [20:10] WDC AL - Youth-1 Standard - 1/2
+ 
+ [20:25] Pro-Am International Standard - Scholarship (age B) - Final
+ 
+ Heat 171 [20:25]  Final Round  Scholarship Standard (W/T/VW/F/Q)
+ 	Final Round L-B Scholarship Standard (W/T/VW/F/Q)
+
+ 
+ [20:40] Showcase
+ 
+ Heat 217 [20:40]   Showcase VIP
+ ___	L-		Daniela Parmigiani	Gianni Cugge	Baccare Baccare, Milano, Italy
+
+ 
+ [20:45] WDC AL - Youth-1 Standard - Final
+ 
+ [20:55] Professional Open to the World Show Dance Competition (Latin) - Final
+ 
+ [21:20] Pro-Am International Standard - Scholarship (age A) - Final
+ 
+ Heat 218 [21:20]   Scholarship Standard (W/T/VW/F/Q)
+ ___	L-A	107	Ute Kuras	Sergii Tymchenko	Dance For You, Dubai, UAE
+ ___	L-A	112	Анна Ермолаева	Егор Бикбаев	Novosibirsk, Novosibirsk, Russia
+ ___	L-A	124	Ирина Агалецкая	Александр Жиратков	Школа танцев Е. Папунаишвили, Moscow, Russia
+ ___	L-A	151	Ольга Тедикова	Родион Мишенев	Русский Стиль, St.-Petersburg, Russia
+ ___	L-A	161	Юлия Дмитриева	Виктор Преснецов	St.-Petersburg, St.-Petersburg, Russia
+ ___	L-A	162	Полина Рудомётова	Андрей Призенцов	Moscow, Moscow, Russia
+
+ 
+ [21:35] Awards - Youth-1 Standard, Professional
+ 
+ [21:50] Pro-Am TOP AWARDS
+ 
+ [21:55] WDC AL - Youth-2 Latin - 1/2
+ 
+ [22:10] SHOW Pak Ling (HK) - Justinas Duknauskas, Kirill Vosyuk
+ 
+ [22:15] WDC AL - Adults Standard - 1/2
+ 
+ [22:30] SHOW Anna Li Chong (HK) - Justinas Duknauskas, Igor Boev
+ 
+ [22:35] International Latin - Eurasian Cup Open (all ages) Pro-Am - Final
+ [22:35] International Latin - Eurasian Cup Open (all ages) Am-Am - Final
+ 
+ Heat 219 [22:35]   Eurasian 5 Dance Cup Open Latin (C/S/R/P/J)
+ ___	L-	102	Edita Kondratiene	Nikita Moisejenko	Vilnius, Vilnius, Lithuania
+ ___	L-	105	Ann Boothello	Pavel Silantev	Dance For You, Dubai, UAE
+ ___	L-	113	Полина Шедько	Евгений Бобков	Студия танца Е. Бобкова , St.-Petersburg, Russia
+ ___	L-	122	Галина Шашкова	Виталий Диденко	Moscow, Moscow, Russia
+ ___	L-	142	Лилиана Большунова	Илья Куценко	GallaDance Жуковка, Moscow, Russia
+ ___	L-	159	Елена Позднеева	Михаил Попов	Arena dance club, St.-Petersburg, Russia
+ ___	L-	170	Виктория Алексеева	Ян Хачатуров	Moscow, Moscow, Russia
+ ___	G-	404	Jury Logachev	Yana Minaieva	Kyiv, Kyiv, Ukraine
+ 
+ ___	AC-	406	Андрей Иванов	Анна Иванова	Союз , Moscow, Russia
+
+ 
+ [22:50] WDC AL - Youth-2 Latin - Final
+ 
+ [23:00] WDC AL - Adults Standard - Final
+ 
+ [23:10] Awards - Youth-2, Adults
+ 
+ End of Competition
+Schedule of Events	Saint-Petersburg Dance Holidays - 2017
+
+
+
+
+
+i
+
+
+Judges	Saint-Petersburg Dance Holidays - 2017
+
+
+
+
+
+i
+
+
+List of Studios	Saint-Petersburg Dance Holidays - 2017
+
+
+
+
+
+i
+
+
+List of Gentleman Professionals	Saint-Petersburg Dance Holidays - 2017
+
+
+
+
+
+ii
+
+
+List of Gentleman Amateurs	Saint-Petersburg Dance Holidays - 2017
+
+
+
+
+
+i
+
+
+List of Lady Professionals	Saint-Petersburg Dance Holidays - 2017
+
+
+
+
+
+i
+
+
+List of Lady Amateurs	Saint-Petersburg Dance Holidays - 2017
+
+
+
+
+
+iii
+
+
+Saint-Petersburg Dance Holidays - 2017 - Session #1
+
+
+
+
+
+1
+
+
+Saint-Petersburg Dance Holidays - 2017 - Session #2
+
+
+
+
+
+2
+
+
+Saint-Petersburg Dance Holidays - 2017 - Session #3
+
+
+
+
+
+3
+
+
+Saint-Petersburg Dance Holidays - 2017 - Session #4
+
+
+
+
+
+30
+
+
+Saint-Petersburg Dance Holidays - 2017 - Session #5
+
+
+
+
+
+33
+
+
+Saint-Petersburg Dance Holidays - 2017 - Session #6
+
+
+
+
+
+34
+
+
+Saint-Petersburg Dance Holidays - 2017 - Session #7
+
+
+
+
+
+60
+
+
+Saint-Petersburg Dance Holidays - 2017 - Session #8
+
+
+
+
+
+63
+
+
